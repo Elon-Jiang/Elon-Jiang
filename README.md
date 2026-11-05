@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="8 个 PR 已合并 · 52 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="23 个 PR 已合并 · 36 个待合并" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[61 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **8 已合并 / 52 待合并 / 1 关闭未合并**
+[61 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **23 已合并 / 36 待合并 / 2 关闭未合并**
 
 仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
 
@@ -21,29 +21,29 @@
 
 | 仓库 | PR | 状态 |
 | :--- | :--- | :--- |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6199 fix(ts): interrupt tool retry backoff on cancellation](https://github.com/MervinPraison/PraisonAI/pull/6199) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6198 fix(ts): enforce tool payload limits in UTF-8 bytes](https://github.com/MervinPraison/PraisonAI/pull/6198) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6197 fix(ts): invalidate tool installation cache on registration changes](https://github.com/MervinPraison/PraisonAI/pull/6197) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6196 fix(ts): re-enter downstream tool middleware on retry](https://github.com/MervinPraison/PraisonAI/pull/6196) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6199 fix(ts): interrupt tool retry backoff on cancellation](https://github.com/MervinPraison/PraisonAI/pull/6199) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6198 fix(ts): enforce tool payload limits in UTF-8 bytes](https://github.com/MervinPraison/PraisonAI/pull/6198) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6197 fix(ts): invalidate tool installation cache on registration changes](https://github.com/MervinPraison/PraisonAI/pull/6197) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6196 fix(ts): re-enter downstream tool middleware on retry](https://github.com/MervinPraison/PraisonAI/pull/6196) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6191 fix(ts): remove stale graph neighbors when an edge is rewired](https://github.com/MervinPraison/PraisonAI/pull/6191) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6191 fix(ts): remove stale graph neighbors when an edge is rewired](https://github.com/MervinPraison/PraisonAI/pull/6191) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6190 fix(ts): ensure fixed-size chunking always advances](https://github.com/MervinPraison/PraisonAI/pull/6190) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6188 fix(ts): preserve sentence chunk content and source offsets](https://github.com/MervinPraison/PraisonAI/pull/6188) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6186 fix(ts): preserve session changes during file saves](https://github.com/MervinPraison/PraisonAI/pull/6186) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6188 fix(ts): preserve sentence chunk content and source offsets](https://github.com/MervinPraison/PraisonAI/pull/6188) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6186 fix(ts): preserve session changes during file saves](https://github.com/MervinPraison/PraisonAI/pull/6186) | 已合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#7000 fix(py): isolate generated output format metadata](https://github.com/genkit-ai/genkit/pull/7000) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6999 fix(py): preserve message metadata when injecting output instructions](https://github.com/genkit-ai/genkit/pull/6999) | 待合并 |
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#578 fix(llm): stop Codex process before closing read pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/578) | 已合并 |
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#577 fix(llm): use UTF-8 for model CLI text pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/577) | 已合并 |
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#576 fix(llm): reject failed Claude CLI responses before returning stdout](https://github.com/algorithmicsuperintelligence/openevolve/pull/576) | 已合并 |
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#575 fix(trace): keep JSON export metadata reusable](https://github.com/algorithmicsuperintelligence/openevolve/pull/575) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6184 fix(ts): settle MCP requests when WebSocket connections close](https://github.com/MervinPraison/PraisonAI/pull/6184) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6183 fix(ts): evict empty keys from bounded MemoryCache](https://github.com/MervinPraison/PraisonAI/pull/6183) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6180 fix(ts): honor the configured FileCache TTL](https://github.com/MervinPraison/PraisonAI/pull/6180) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6184 fix(ts): settle MCP requests when WebSocket connections close](https://github.com/MervinPraison/PraisonAI/pull/6184) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6183 fix(ts): evict empty keys from bounded MemoryCache](https://github.com/MervinPraison/PraisonAI/pull/6183) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6180 fix(ts): honor the configured FileCache TTL](https://github.com/MervinPraison/PraisonAI/pull/6180) | 已合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6998 fix(py): handle recursive schemas in array and JSONL formats](https://github.com/genkit-ai/genkit/pull/6998) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6178 fix(ts): resolve MCP WebSocket responses with zero request IDs](https://github.com/MervinPraison/PraisonAI/pull/6178) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6178 fix(ts): resolve MCP WebSocket responses with zero request IDs](https://github.com/MervinPraison/PraisonAI/pull/6178) | 已合并 |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2252 fix(document): detect online document type from URL path](https://github.com/assafelovic/gpt-researcher/pull/2252) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6996 fix(py): ignore SSE heartbeat comments in agent streams](https://github.com/genkit-ai/genkit/pull/6996) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6995 fix(py): compare session snapshot creation instants chronologically](https://github.com/genkit-ai/genkit/pull/6995) | 待合并 |
@@ -67,8 +67,8 @@
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | 待合并 |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | 待合并 |
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3360 fix(sdk-ts): observe rejected operations after pre-abort](https://github.com/browserbase/stagehand/pull/3360) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6147 fix(ts): reject negative memory capacities](https://github.com/MervinPraison/PraisonAI/pull/6147) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | 已合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6147 fix(ts): reject negative memory capacities](https://github.com/MervinPraison/PraisonAI/pull/6147) | 关闭未合并 |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2072 fix(python-sdk): notify on_exit after immediate watch stop](https://github.com/e2b-dev/E2B/pull/2072) | 待合并 |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#203 fix(analyzer): restore consistency call support](https://github.com/agentscope-ai/OpenJudge/pull/203) | 已合并 |
 | [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#3560 fix(classifiers): match whitespace-padded label names](https://github.com/confident-ai/deepeval/pull/3560) | 待合并 |
@@ -77,7 +77,7 @@
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#733 fix(mcp-scan): normalize mixed-case MCP SARIF rule IDs](https://github.com/Tencent/AI-Infra-Guard/pull/733) | 已合并 |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#287 fix(memory): keep distinct topic pointers during consolidation](https://github.com/HKUDS/DeepCode/pull/287) | 待合并 |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8114 fix(core): handle inherited property names in thread store registry](https://github.com/CopilotKit/CopilotKit/pull/8114) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6142 fix(ts): recover FileMemory writes after append failures](https://github.com/MervinPraison/PraisonAI/pull/6142) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6142 fix(ts): recover FileMemory writes after append failures](https://github.com/MervinPraison/PraisonAI/pull/6142) | 已合并 |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8111 fix(core): replace all case variants when overlaying headers](https://github.com/CopilotKit/CopilotKit/pull/8111) | 待合并 |
 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2625 fix(dashboard): display custom ACP runner names and commands](https://github.com/TencentCloud/Octop/pull/2625) | 待合并 |
 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2624 fix(dashboard): keep HTML preview anchors inside the document](https://github.com/TencentCloud/Octop/pull/2624) | 待合并 |

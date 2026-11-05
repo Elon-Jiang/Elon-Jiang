@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-04T09:21:39+00:00",
+  "updated_at": "2026-11-05T03:23:33+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -18,10 +18,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): interrupt tool retry backoff on cancellation",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6199",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T05:15:03Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:53Z"
     },
     {
       "id": 6156536890,
@@ -29,10 +29,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): enforce tool payload limits in UTF-8 bytes",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6198",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T05:03:47Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:47Z"
     },
     {
       "id": 6156468180,
@@ -40,10 +40,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): invalidate tool installation cache on registration changes",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6197",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T04:56:48Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:42Z"
     },
     {
       "id": 6156375413,
@@ -51,10 +51,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): re-enter downstream tool middleware on retry",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6196",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T04:47:07Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T20:04:37Z"
     },
     {
       "id": 6156224079,
@@ -73,10 +73,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): keep hook inspection from freezing registration",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6194",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T04:20:52Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:36Z"
     },
     {
       "id": 6156029876,
@@ -84,10 +84,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): preserve concurrent FileCache list appends",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6193",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T04:11:26Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:30Z"
     },
     {
       "id": 6155717535,
@@ -106,10 +106,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): remove stale graph neighbors when an edge is rewired",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6191",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T03:11:18Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:25Z"
     },
     {
       "id": 6155274243,
@@ -128,10 +128,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): preserve sentence chunk content and source offsets",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6188",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T17:53:41Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T20:04:32Z"
     },
     {
       "id": 6150053762,
@@ -139,10 +139,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): preserve session changes during file saves",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6186",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T17:44:37Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:20Z"
     },
     {
       "id": 6149846438,
@@ -216,10 +216,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): settle MCP requests when WebSocket connections close",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6184",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T14:34:26Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T20:04:26Z"
     },
     {
       "id": 6147644080,
@@ -227,10 +227,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): evict empty keys from bounded MemoryCache",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6183",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T13:49:26Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:03:09Z"
     },
     {
       "id": 6146110086,
@@ -238,10 +238,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): honor the configured FileCache TTL",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6180",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T11:00:44Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T20:33:54Z"
     },
     {
       "id": 6146054246,
@@ -260,10 +260,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): resolve MCP WebSocket responses with zero request IDs",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6178",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T10:36:00Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:02:58Z"
     },
     {
       "id": 6144548811,
@@ -524,10 +524,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): preserve arbitrary session state keys",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6149",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-10-31T02:36:34Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:02:30Z"
     },
     {
       "id": 6130107352,
@@ -535,7 +535,7 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): reject negative memory capacities",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6147",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-10-31T02:28:13Z",
       "merged_at": null
@@ -634,10 +634,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): recover FileMemory writes after append failures",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6142",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-10-30T15:19:52Z",
-      "merged_at": null
+      "merged_at": "2026-11-04T13:02:36Z"
     },
     {
       "id": 6121038017,
@@ -688,117 +688,117 @@
     {
       "full_name": "2FastLabs/agent-squad",
       "url": "https://github.com/2FastLabs/agent-squad",
-      "stars": 7797
+      "stars": 7799
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38505
+      "stars": 38522
     },
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16801
+      "stars": 16802
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40523
+      "stars": 40536
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24420
+      "stars": 24432
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17396
+      "stars": 17413
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9322
+      "stars": 9321
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14600
+      "stars": 14601
     },
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7376
+      "stars": 7382
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 11608
+      "stars": 11659
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 10919
+      "stars": 10920
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1046
+      "stars": 1052
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7707
+      "stars": 7710
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30471
+      "stars": 30489
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 119983
+      "stars": 120056
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 25937
+      "stars": 25950
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19287
+      "stars": 19299
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14706
+      "stars": 14715
     },
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6565
+      "stars": 6566
     },
     {
       "full_name": "langchain-ai/langchainjs",
       "url": "https://github.com/langchain-ai/langchainjs",
-      "stars": 18319
+      "stars": 18321
     },
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18895
+      "stars": 18900
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21021
+      "stars": 21030
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12868
+      "stars": 12877
     }
   ]
 }
