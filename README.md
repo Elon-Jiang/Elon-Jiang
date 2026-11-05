@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="23 个 PR 已合并 · 36 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="24 个 PR 已合并 · 35 个待合并" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[61 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **23 已合并 / 36 待合并 / 2 关闭未合并**
+[61 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 35 待合并 / 2 关闭未合并**
 
 仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
 
@@ -25,7 +25,7 @@
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6198 fix(ts): enforce tool payload limits in UTF-8 bytes](https://github.com/MervinPraison/PraisonAI/pull/6198) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6197 fix(ts): invalidate tool installation cache on registration changes](https://github.com/MervinPraison/PraisonAI/pull/6197) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6196 fix(ts): re-enter downstream tool middleware on retry](https://github.com/MervinPraison/PraisonAI/pull/6196) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | 待合并 |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | 已合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | 待合并 |

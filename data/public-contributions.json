@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-05T03:23:33+00:00",
+  "updated_at": "2026-11-05T09:33:40+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -62,10 +62,10 @@
       "repository": "MervinPraison/PraisonAI",
       "title": "fix(ts): release hook deadline timers after settlement",
       "url": "https://github.com/MervinPraison/PraisonAI/pull/6195",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-02T04:31:33Z",
-      "merged_at": null
+      "merged_at": "2026-11-05T07:59:34Z"
     },
     {
       "id": 6156118489,
@@ -693,27 +693,27 @@
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38522
+      "stars": 38528
     },
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16802
+      "stars": 16804
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40536
+      "stars": 40545
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24432
+      "stars": 24435
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17413
+      "stars": 17417
     },
     {
       "full_name": "MervinPraison/PraisonAI",
@@ -723,57 +723,57 @@
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14601
+      "stars": 14602
     },
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7382
+      "stars": 7388
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 11659
+      "stars": 11687
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 10920
+      "stars": 10921
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1052
+      "stars": 1053
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7710
+      "stars": 7714
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30489
+      "stars": 30494
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120056
+      "stars": 120085
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 25950
+      "stars": 25955
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19299
+      "stars": 19312
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14715
+      "stars": 14719
     },
     {
       "full_name": "genkit-ai/genkit",
@@ -788,17 +788,17 @@
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18900
+      "stars": 18904
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21030
+      "stars": 21034
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12877
+      "stars": 12879
     }
   ]
 }
