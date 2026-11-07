@@ -9,18 +9,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="24 个 PR 已合并 · 36 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="24 个 PR 已合并 · 37 个待合并" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[63 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 36 待合并 / 3 关闭未合并**
+[64 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 37 待合并 / 3 关闭未合并**
 
 仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
 
 <details>
-<summary>查看全部 63 个 PR 与贡献仓库</summary>
+<summary>查看全部 64 个 PR 与贡献仓库</summary>
 
 | 仓库 | PR | 状态 |
 | :--- | :--- | :--- |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#24065 fix(core): preserve chat memory input snapshots during restore](https://github.com/run-llama/llama_index/pull/24065) | 待合并 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#23976 fix(core): isolate SimpleKVStore dictionary snapshots](https://github.com/run-llama/llama_index/pull/23976) | 待合并 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [#7560 fix(sdk): report decoded binary file sizes](https://github.com/langchain-ai/deepagents/pull/7560) | 关闭未合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6199 fix(ts): interrupt tool retry backoff on cancellation](https://github.com/MervinPraison/PraisonAI/pull/6199) | 已合并 |

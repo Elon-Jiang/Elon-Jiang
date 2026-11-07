@@ -1,33 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">公开开源贡献统计</title><desc id="desc">24 个 PR 已合并，36 个待合并，3 个关闭未合并。仓库星标是所贡献项目的星标。</desc><rect width="1000" height="869" fill="#ffffff"/><text x="48" y="31" font-size="11" fill="#9565c9" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">公开开源贡献统计</title><desc id="desc">24 个 PR 已合并，37 个待合并，3 个关闭未合并。仓库星标是所贡献项目的星标。</desc><rect width="1000" height="869" fill="#ffffff"/><text x="48" y="31" font-size="11" fill="#9565c9" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
 <text x="952" y="31" font-size="11" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">github.com/Elon-Jiang</text>
 <path d="M48 53H952" stroke="#eeedf2" fill="none"/>
 <text x="48" y="145" font-size="73" fill="#202124" font-weight="700" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">24</text>
 <text x="175" y="141" font-size="21" fill="#202124" font-weight="650" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">个 PR 已合并</text>
-<text x="770" y="139" font-size="42" fill="#9565c9" font-weight="600" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" text-anchor="end">36</text>
+<text x="770" y="139" font-size="42" fill="#9565c9" font-weight="600" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" text-anchor="end">37</text>
 <text x="788" y="139" font-size="16" fill="#55565d" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">个待合并</text>
-<text x="48" y="179" font-size="13" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">63 个公开 PR · 25 个贡献仓库 · 仅统计提给他人仓库的贡献</text>
+<text x="48" y="179" font-size="13" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">64 个公开 PR · 25 个贡献仓库 · 仅统计提给他人仓库的贡献</text>
 <text x="48" y="219" font-size="11" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">近 30 天 PR 合并时间</text>
 <path d="M48 285H952" stroke="#eeedf2" fill="none"/>
-<circle cx="792.21" cy="274" r="3.6" fill="#9565c9"><title>2026-11-01: 1 个 PR</title></circle>
-<circle cx="822.97" cy="274" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
-<circle cx="822.97" cy="264" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
-<circle cx="822.97" cy="254" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
-<circle cx="822.97" cy="244" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
-<circle cx="822.97" cy="234" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
-<text x="822.9655172413793" y="217" font-size="10" fill="#9565c9" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+2</text>
-<circle cx="884.48" cy="274" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
-<circle cx="884.48" cy="264" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
-<circle cx="884.48" cy="254" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
-<circle cx="884.48" cy="244" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
-<circle cx="884.48" cy="234" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
-<text x="884.4827586206897" y="217" font-size="10" fill="#9565c9" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+6</text>
-<circle cx="915.24" cy="274" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
-<circle cx="915.24" cy="264" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
-<circle cx="915.24" cy="254" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
-<circle cx="915.24" cy="244" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
-<circle cx="915.24" cy="234" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
-<text x="48" y="309" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">10-08</text>
-<text x="952" y="309" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">11-06</text>
+<circle cx="761.45" cy="274" r="3.6" fill="#9565c9"><title>2026-11-01: 1 个 PR</title></circle>
+<circle cx="792.21" cy="274" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
+<circle cx="792.21" cy="264" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
+<circle cx="792.21" cy="254" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
+<circle cx="792.21" cy="244" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
+<circle cx="792.21" cy="234" r="3.6" fill="#9565c9"><title>2026-11-02: 7 个 PR</title></circle>
+<text x="792.2068965517241" y="217" font-size="10" fill="#9565c9" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+2</text>
+<circle cx="853.72" cy="274" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
+<circle cx="853.72" cy="264" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
+<circle cx="853.72" cy="254" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
+<circle cx="853.72" cy="244" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
+<circle cx="853.72" cy="234" r="3.6" fill="#9565c9"><title>2026-11-04: 11 个 PR</title></circle>
+<text x="853.7241379310345" y="217" font-size="10" fill="#9565c9" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+6</text>
+<circle cx="884.48" cy="274" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
+<circle cx="884.48" cy="264" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
+<circle cx="884.48" cy="254" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
+<circle cx="884.48" cy="244" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
+<circle cx="884.48" cy="234" r="3.6" fill="#9565c9"><title>2026-11-05: 5 个 PR</title></circle>
+<text x="48" y="309" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">10-09</text>
+<text x="952" y="309" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">11-07</text>
 <path d="M48 332H952" stroke="#eeedf2" fill="none"/>
 <text x="48" y="364" font-size="11" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">贡献仓库</text>
 <text x="779" y="364" font-size="11" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" text-anchor="end">PR 状态</text>
@@ -71,4 +71,4 @@
 <text x="96" y="781" font-size="12" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">… 另有 19 个贡献仓库，完整 PR 链接见下方</text>
 <path d="M48 815H952" stroke="#eeedf2" fill="none"/>
 <text x="48" y="843" font-size="11" fill="#83858b" font-weight="400" font-family="&#x27;Noto Sans CJK SC&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif">数据来源 GitHub REST API · 每日自动刷新</text>
-<text x="952" y="843" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">更新于 2026-11-06 17:27 (UTC+8)</text></svg>
+<text x="952" y="843" font-size="10" fill="#83858b" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">更新于 2026-11-07 16:51 (UTC+8)</text></svg>
