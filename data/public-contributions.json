@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-07T08:51:09+00:00",
+  "updated_at": "2026-11-08T09:03:43+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -12,6 +12,94 @@
     "bio": null
   },
   "pull_requests": [
+    {
+      "id": 6267632504,
+      "number": 10397,
+      "repository": "assistant-ui/assistant-ui",
+      "title": "fix(react-a2a): merge protocol header names case-insensitively",
+      "url": "https://github.com/assistant-ui/assistant-ui/pull/10397",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-08T04:37:11Z",
+      "merged_at": null
+    },
+    {
+      "id": 6267512085,
+      "number": 1519,
+      "repository": "VoltAgent/voltagent",
+      "title": "fix(rag): keep NeuralChunker output IDs distinct after expansion",
+      "url": "https://github.com/VoltAgent/voltagent/pull/1519",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-08T04:17:36Z",
+      "merged_at": null
+    },
+    {
+      "id": 6267405828,
+      "number": 1517,
+      "repository": "VoltAgent/voltagent",
+      "title": "fix(sdk): preserve request header forms and overrides",
+      "url": "https://github.com/VoltAgent/voltagent/pull/1517",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-08T04:01:43Z",
+      "merged_at": null
+    },
+    {
+      "id": 6267270990,
+      "number": 10395,
+      "repository": "assistant-ui/assistant-ui",
+      "title": "fix(assistant-stream): stop scanning SSE input at the done marker",
+      "url": "https://github.com/assistant-ui/assistant-ui/pull/10395",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-08T03:43:09Z",
+      "merged_at": null
+    },
+    {
+      "id": 6267055321,
+      "number": 1531,
+      "repository": "neuml/txtai",
+      "title": "Fix search worker limits when CPU count is unknown",
+      "url": "https://github.com/neuml/txtai/pull/1531",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-08T03:14:15Z",
+      "merged_at": null
+    },
+    {
+      "id": 6258143967,
+      "number": 3098,
+      "repository": "vibrantlabsai/ragas",
+      "title": "fix: discover Git worktrees for experiment versioning",
+      "url": "https://github.com/vibrantlabsai/ragas/pull/3098",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-07T10:51:19Z",
+      "merged_at": null
+    },
+    {
+      "id": 6257992023,
+      "number": 1529,
+      "repository": "neuml/txtai",
+      "title": "Fix iterator outputs in batched workflow tasks",
+      "url": "https://github.com/neuml/txtai/pull/1529",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-07T10:36:17Z",
+      "merged_at": null
+    },
+    {
+      "id": 6257565247,
+      "number": 3096,
+      "repository": "vibrantlabsai/ragas",
+      "title": "fix(dataset): keep seeded train/test splits reproducible",
+      "url": "https://github.com/vibrantlabsai/ragas/pull/3096",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-07T09:43:58Z",
+      "merged_at": null
+    },
     {
       "id": 6257058491,
       "number": 24065,
@@ -721,102 +809,107 @@
     {
       "full_name": "2FastLabs/agent-squad",
       "url": "https://github.com/2FastLabs/agent-squad",
-      "stars": 7798
+      "stars": 7800
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38550
+      "stars": 38564
     },
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16814
+      "stars": 16822
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40592
+      "stars": 40604
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24453
+      "stars": 24460
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17453
+      "stars": 17462
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9323
+      "stars": 9327
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14606
+      "stars": 14605
     },
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7417
+      "stars": 7428
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 11745
+      "stars": 11771
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 10926
+      "stars": 10931
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1065
+      "stars": 1073
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7726
+      "stars": 7733
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30530
+      "stars": 30552
+    },
+    {
+      "full_name": "assistant-ui/assistant-ui",
+      "url": "https://github.com/assistant-ui/assistant-ui",
+      "stars": 12998
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120232
+      "stars": 120289
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 25976
+      "stars": 25979
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19342
+      "stars": 19363
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14756
+      "stars": 14765
     },
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6572
+      "stars": 6573
     },
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31051
+      "stars": 31084
     },
     {
       "full_name": "langchain-ai/langchainjs",
@@ -826,22 +919,32 @@
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18908
+      "stars": 18922
+    },
+    {
+      "full_name": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "stars": 13118
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21069
+      "stars": 21086
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52838
+      "stars": 52842
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12897
+      "stars": 12905
+    },
+    {
+      "full_name": "vibrantlabsai/ragas",
+      "url": "https://github.com/vibrantlabsai/ragas",
+      "stars": 16259
     }
   ]
 }

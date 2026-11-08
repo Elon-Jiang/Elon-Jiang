@@ -9,18 +9,26 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="24 个 PR 已合并 · 37 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="24 个 PR 已合并 · 45 个待合并" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[64 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 37 待合并 / 3 关闭未合并**
+[72 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 45 待合并 / 3 关闭未合并**
 
 仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
 
 <details>
-<summary>查看全部 64 个 PR 与贡献仓库</summary>
+<summary>查看全部 72 个 PR 与贡献仓库</summary>
 
 | 仓库 | PR | 状态 |
 | :--- | :--- | :--- |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | 待合并 |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | 待合并 |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | 待合并 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | 待合并 |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | 待合并 |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | 待合并 |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | 待合并 |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3096 fix(dataset): keep seeded train/test splits reproducible](https://github.com/vibrantlabsai/ragas/pull/3096) | 待合并 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#24065 fix(core): preserve chat memory input snapshots during restore](https://github.com/run-llama/llama_index/pull/24065) | 待合并 |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#23976 fix(core): isolate SimpleKVStore dictionary snapshots](https://github.com/run-llama/llama_index/pull/23976) | 待合并 |
 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [#7560 fix(sdk): report decoded binary file sizes](https://github.com/langchain-ai/deepagents/pull/7560) | 关闭未合并 |
