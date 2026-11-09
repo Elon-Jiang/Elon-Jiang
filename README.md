@@ -9,22 +9,23 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="24 个 PR 已合并 · 45 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="28 个 PR 已合并 · 42 个待合并" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[72 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **24 已合并 / 45 待合并 / 3 关闭未合并**
+[73 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 已合并 / 42 待合并 / 3 关闭未合并**
 
 仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
 
 <details>
-<summary>查看全部 72 个 PR 与贡献仓库</summary>
+<summary>查看全部 73 个 PR 与贡献仓库</summary>
 
 | 仓库 | PR | 状态 |
 | :--- | :--- | :--- |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | 待合并 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | 待合并 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | 已合并 |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | 待合并 |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | 待合并 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | 待合并 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | 已合并 |
 | [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | 待合并 |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | 待合并 |
 | [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | 待合并 |
@@ -55,14 +56,14 @@
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6180 fix(ts): honor the configured FileCache TTL](https://github.com/MervinPraison/PraisonAI/pull/6180) | 已合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6998 fix(py): handle recursive schemas in array and JSONL formats](https://github.com/genkit-ai/genkit/pull/6998) | 待合并 |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6178 fix(ts): resolve MCP WebSocket responses with zero request IDs](https://github.com/MervinPraison/PraisonAI/pull/6178) | 已合并 |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2252 fix(document): detect online document type from URL path](https://github.com/assafelovic/gpt-researcher/pull/2252) | 待合并 |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2252 fix(document): detect online document type from URL path](https://github.com/assafelovic/gpt-researcher/pull/2252) | 已合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6996 fix(py): ignore SSE heartbeat comments in agent streams](https://github.com/genkit-ai/genkit/pull/6996) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6995 fix(py): compare session snapshot creation instants chronologically](https://github.com/genkit-ai/genkit/pull/6995) | 待合并 |
 | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | [#253 fix(s4): quote paths when archiving interface variants](https://github.com/simular-ai/Agent-S/pull/253) | 待合并 |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#775 fix(embedding): skip empty SDK embedding requests](https://github.com/NevaMind-AI/memU/pull/775) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6992 fix(py): preserve application import errors in run_main](https://github.com/genkit-ai/genkit/pull/6992) | 待合并 |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6991 fix(py): preserve nullable chunks in waiting stream readers](https://github.com/genkit-ai/genkit/pull/6991) | 待合并 |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2250 fix(vector-store): skip empty chunk batches](https://github.com/assafelovic/gpt-researcher/pull/2250) | 待合并 |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2250 fix(vector-store): skip empty chunk batches](https://github.com/assafelovic/gpt-researcher/pull/2250) | 已合并 |
 | [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#726 fix(python): preserve memory and SQL message timestamps](https://github.com/2FastLabs/agent-squad/pull/726) | 待合并 |
 | [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#724 fix(storage): persist raw messages before updating summaries](https://github.com/2FastLabs/agent-squad/pull/724) | 待合并 |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#204 fix(runner): reject nonpositive concurrency](https://github.com/agentscope-ai/OpenJudge/pull/204) | 已合并 |

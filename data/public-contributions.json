@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-09T09:52:02+00:00",
+  "updated_at": "2026-11-09T12:43:07+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -13,15 +13,26 @@
   },
   "pull_requests": [
     {
+      "id": 6285851821,
+      "number": 469,
+      "repository": "HKUDS/RAG-Anything",
+      "title": "fix(resilience): release interrupted synchronous recovery probes",
+      "url": "https://github.com/HKUDS/RAG-Anything/pull/469",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-09T12:14:55Z",
+      "merged_at": null
+    },
+    {
       "id": 6267632504,
       "number": 10397,
       "repository": "assistant-ui/assistant-ui",
       "title": "fix(react-a2a): merge protocol header names case-insensitively",
       "url": "https://github.com/assistant-ui/assistant-ui/pull/10397",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-08T04:37:11Z",
-      "merged_at": null
+      "merged_at": "2026-11-09T10:11:10Z"
     },
     {
       "id": 6267512085,
@@ -51,10 +62,10 @@
       "repository": "assistant-ui/assistant-ui",
       "title": "fix(assistant-stream): stop scanning SSE input at the done marker",
       "url": "https://github.com/assistant-ui/assistant-ui/pull/10395",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-08T03:43:09Z",
-      "merged_at": null
+      "merged_at": "2026-11-09T10:13:43Z"
     },
     {
       "id": 6267055321,
@@ -392,10 +403,10 @@
       "repository": "assafelovic/gpt-researcher",
       "title": "fix(document): detect online document type from URL path",
       "url": "https://github.com/assafelovic/gpt-researcher/pull/2252",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T07:42:12Z",
-      "merged_at": null
+      "merged_at": "2026-11-09T10:39:52Z"
     },
     {
       "id": 6144409055,
@@ -469,10 +480,10 @@
       "repository": "assafelovic/gpt-researcher",
       "title": "fix(vector-store): skip empty chunk batches",
       "url": "https://github.com/assafelovic/gpt-researcher/pull/2250",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-10-31T17:51:00Z",
-      "merged_at": null
+      "merged_at": "2026-11-09T10:39:53Z"
     },
     {
       "id": 6136683962,
@@ -814,7 +825,7 @@
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38578
+      "stars": 38575
     },
     {
       "full_name": "HKUDS/DeepCode",
@@ -834,12 +845,12 @@
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17484
+      "stars": 17486
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9327
+      "stars": 9330
     },
     {
       "full_name": "NevaMind-AI/memU",
@@ -849,12 +860,12 @@
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7442
+      "stars": 7444
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 11801
+      "stars": 11806
     },
     {
       "full_name": "VoltAgent/voltagent",
@@ -864,12 +875,12 @@
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1079
+      "stars": 1080
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7739
+      "stars": 7740
     },
     {
       "full_name": "assafelovic/gpt-researcher",
@@ -879,12 +890,12 @@
     {
       "full_name": "assistant-ui/assistant-ui",
       "url": "https://github.com/assistant-ui/assistant-ui",
-      "stars": 13023
+      "stars": 13025
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120390
+      "stars": 120405
     },
     {
       "full_name": "browserbase/stagehand",
@@ -894,12 +905,12 @@
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19379
+      "stars": 19381
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14776
+      "stars": 14778
     },
     {
       "full_name": "genkit-ai/genkit",
@@ -909,42 +920,42 @@
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31132
+      "stars": 31137
     },
     {
       "full_name": "langchain-ai/langchainjs",
       "url": "https://github.com/langchain-ai/langchainjs",
-      "stars": 18332
+      "stars": 18333
     },
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18931
+      "stars": 18930
     },
     {
       "full_name": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
-      "stars": 13191
+      "stars": 13200
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21100
+      "stars": 21101
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52854
+      "stars": 52857
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12912
+      "stars": 12914
     },
     {
       "full_name": "vibrantlabsai/ragas",
       "url": "https://github.com/vibrantlabsai/ragas",
-      "stars": 16263
+      "stars": 16266
     }
   ]
 }
