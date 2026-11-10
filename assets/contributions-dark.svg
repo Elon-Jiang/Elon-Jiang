@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">Open-source contributions</title><desc id="desc">28 merged, 46 open, 3 closed without merge. Stars belong to the contributed projects.</desc><rect width="1000" height="869" fill="#0d1117"/><text x="48" y="31" font-size="11" fill="#ba93ed" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">Open-source contributions</title><desc id="desc">30 merged, 53 open, 3 closed without merge. Stars belong to the contributed projects.</desc><rect width="1000" height="869" fill="#0d1117"/><text x="48" y="31" font-size="11" fill="#ba93ed" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
 <text x="952" y="31" font-size="11" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">github.com/Elon-Jiang</text>
 <path d="M48 53H952" stroke="#252c36" fill="none"/>
-<text x="48" y="145" font-size="73" fill="#e6edf3" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">28</text>
+<text x="48" y="145" font-size="73" fill="#e6edf3" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">30</text>
 <text x="175" y="141" font-size="21" fill="#e6edf3" font-weight="650" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">PRs merged</text>
-<text x="48" y="179" font-size="13" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">77 public PRs · 46 open · 30 repositories · external repositories only</text>
+<text x="48" y="179" font-size="13" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">86 public PRs · 53 open · 33 repositories · external repositories only</text>
 <text x="48" y="219" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">Merged PRs, last 30 days</text>
 <path d="M48 285H952" stroke="#252c36" fill="none"/>
 <circle cx="669.17" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-01: 1 PR</title></circle>
@@ -28,6 +28,8 @@
 <circle cx="915.24" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
 <circle cx="915.24" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
 <circle cx="915.24" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
+<circle cx="946.00" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-10: 2 PRs</title></circle>
+<circle cx="946.00" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-10: 2 PRs</title></circle>
 <text x="48" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">10-12</text>
 <text x="952" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">11-10</text>
 <path d="M48 332H952" stroke="#252c36" fill="none"/>
@@ -56,21 +58,21 @@
 <text x="62" y="599" text-anchor="middle" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" font-size="10" font-weight="700" fill="#5b9c83">OP</text>
 <text x="96" y="600" font-size="16" fill="#e6edf3" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">algorithmicsuperintelligence/openevolve</text>
 <text x="779" y="600" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">5 merged · 0 open</text>
-<text x="952" y="600" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 7.7k</text>
+<text x="952" y="600" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 7.8k</text>
 <path d="M48 628H952" stroke="#252c36" fill="none"/>
 <rect x="48" y="645" width="28" height="28" rx="7" fill="#a58a47" fill-opacity="0.12"/>
 <text x="62" y="664" text-anchor="middle" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" font-size="10" font-weight="700" fill="#a58a47">AI</text>
 <text x="96" y="665" font-size="16" fill="#e6edf3" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">Tencent/AI-Infra-Guard</text>
-<text x="779" y="665" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">1 merged · 0 open</text>
-<text x="952" y="665" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 7.4k</text>
+<text x="779" y="665" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">1 merged · 2 open</text>
+<text x="952" y="665" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 7.5k</text>
 <path d="M48 693H952" stroke="#252c36" fill="none"/>
 <rect x="48" y="710" width="28" height="28" rx="7" fill="#7281be" fill-opacity="0.12"/>
 <text x="62" y="729" text-anchor="middle" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" font-size="10" font-weight="700" fill="#7281be">OJ</text>
 <text x="96" y="730" font-size="16" fill="#e6edf3" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">agentscope-ai/OpenJudge</text>
-<text x="779" y="730" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">2 merged · 0 open</text>
+<text x="779" y="730" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">4 merged · 0 open</text>
 <text x="952" y="730" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 1.1k</text>
 <path d="M48 758H952" stroke="#252c36" fill="none"/>
-<text x="96" y="781" font-size="12" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">+ 24 more repositories · full PR list below</text>
+<text x="96" y="781" font-size="12" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">+ 27 more repositories · full PR list below</text>
 <path d="M48 815H952" stroke="#252c36" fill="none"/>
 <text x="48" y="843" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">Source: GitHub REST API · refreshed daily</text>
-<text x="952" y="843" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">Updated 2026-11-10 12:33 (UTC+8)</text></svg>
+<text x="952" y="843" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">Updated 2026-11-10 17:55 (UTC+8)</text></svg>

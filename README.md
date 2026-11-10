@@ -9,18 +9,27 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="28 PRs merged · 46 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="30 PRs merged · 53 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[77 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 merged / 46 open / 3 closed**
+[86 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **30 merged / 53 open / 3 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
 <details>
-<summary>All 77 PRs and repositories</summary>
+<summary>All 86 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#809 Fix consecutive non-monotonic timestamps in action interpolation](https://github.com/NVIDIA/Isaac-GR00T/pull/809) | Open |
+| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#886 fix(camera): construct valid batched and vertical views](https://github.com/RoboVerseOrg/RoboVerse/pull/886) | Open |
+| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#885 fix(replay): fail validation on non-finite states](https://github.com/RoboVerseOrg/RoboVerse/pull/885) | Open |
+| [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#364 Fix FrankaKitchen reward recomputation after task completion](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/364) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1524 fix(core): report in-memory file sizes in UTF-8 bytes](https://github.com/VoltAgent/voltagent/pull/1524) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#747 fix(agent-scan): preserve prompt escapes in provider templates](https://github.com/Tencent/AI-Infra-Guard/pull/747) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#229 fix(models): honor per-call OpenAI streaming mode](https://github.com/agentscope-ai/OpenJudge/pull/229) | Merged |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#746 fix(agent-scan): preserve non-object HTTP error responses](https://github.com/Tencent/AI-Infra-Guard/pull/746) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#228 fix(models): format Omni audio once](https://github.com/agentscope-ai/OpenJudge/pull/228) | Merged |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1897 bug: preserve Cohere base64 embedding results](https://github.com/Portkey-AI/gateway/pull/1897) | Open |
 | [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Open |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1896 bug: preserve UTF-8 across JSONL stream chunks](https://github.com/Portkey-AI/gateway/pull/1896) | Open |
