@@ -1,6 +1,7 @@
 import copy
 import importlib.util
 import json
+import re
 from pathlib import Path
 import unittest
 from unittest.mock import patch
@@ -29,29 +30,29 @@ class ContributionTests(unittest.TestCase):
         summary = stats.summarize(self.data)
         self.assertEqual((summary["merged"], summary["open"], summary["closed"]), (1, 1, 1))
         markdown = stats.readme(self.config, self.data, summary)
-        self.assertIn("1 已合并 / 1 待合并 / 1 关闭未合并", markdown)
+        self.assertIn("1 merged / 1 open / 1 closed", markdown)
 
     def test_zero_merges_shows_explicitly_labelled_submission_chart(self):
         self.data["pull_requests"] = [self.pr(1)]
         card = stats.stats_svg(self.config, self.data, stats.summarize(self.data), "light")
-        self.assertIn("近 30 天 PR 提交时间", card)
+        self.assertIn("Opened PRs, last 30 days", card)
         # 17:00 UTC on Oct 30 is Oct 31 in Shanghai.
-        self.assertIn("2026-10-31: 1 个 PR", card)
-        self.assertNotIn("近 30 天 PR 合并时间", card)
+        self.assertIn("2026-10-31: 1 PR", card)
+        self.assertNotIn("Merged PRs, last 30 days", card)
 
     def test_merge_chart_uses_merge_date_instead_of_creation_date(self):
         pr = self.pr(1, "closed", "2026-10-31T02:00:00Z")
         pr["created_at"] = "2025-01-01T00:00:00Z"
         self.data["pull_requests"] = [pr]
         card = stats.stats_svg(self.config, self.data, stats.summarize(self.data), "dark")
-        self.assertIn("近 30 天 PR 合并时间", card)
-        self.assertIn("2026-10-31: 1 个 PR", card)
+        self.assertIn("Merged PRs, last 30 days", card)
+        self.assertIn("2026-10-31: 1 PR", card)
 
     def test_drafts_and_closed_prs_are_labelled_in_details(self):
         self.data["pull_requests"] = [self.pr(1, draft=True), self.pr(2, "closed")]
         markdown = stats.readme(self.config, self.data, stats.summarize(self.data))
-        self.assertIn("| 草稿 |", markdown)
-        self.assertIn("| 关闭未合并 |", markdown)
+        self.assertIn("| Draft |", markdown)
+        self.assertIn("| Closed |", markdown)
         self.assertIn("\\| case", markdown)
 
     def test_incomplete_or_truncated_search_fails_instead_of_showing_partial_counts(self):
@@ -74,6 +75,43 @@ class ContributionTests(unittest.TestCase):
                 self.assertNotIn("{accent}", svg)
                 self.assertNotIn("<foreignObject", svg)
                 self.assertNotIn("@import", svg)
+
+    def repo_pr(self, number, repo, merged):
+        pr = self.pr(number, "closed" if merged else "open", "2026-10-31T02:00:00Z" if merged else None)
+        pr["repository"] = repo
+        pr["url"] = f"https://github.com/{repo}/pull/{number}"
+        return pr
+
+    def test_featured_repositories_rank_by_stars_and_require_a_merge(self):
+        self.data["repositories"] = [
+            {"full_name": "small/many-merges", "url": "https://github.com/small/many-merges", "stars": 900},
+            {"full_name": "big/one-merge", "url": "https://github.com/big/one-merge", "stars": 30000},
+            {"full_name": "huge/open-only", "url": "https://github.com/huge/open-only", "stars": 100000},
+        ]
+        self.data["pull_requests"] = [self.repo_pr(1, "small/many-merges", True), self.repo_pr(2, "small/many-merges", True),
+                                      self.repo_pr(3, "big/one-merge", True), self.repo_pr(4, "huge/open-only", False)]
+        summary = stats.summarize(self.data)
+        self.assertEqual([r["full_name"] for r in summary["featured"]], ["big/one-merge", "small/many-merges"])
+        self.assertEqual(len(summary["repos"]), 3)
+        card = stats.stats_svg(self.config, self.data, summary, "light")
+        self.assertNotIn("huge/open-only", card)
+        self.assertLess(card.index("big/one-merge"), card.index("small/many-merges"))
+
+    def test_without_any_merge_all_repositories_are_shown_by_stars(self):
+        self.data["pull_requests"] = [self.pr(1)]
+        summary = stats.summarize(self.data)
+        self.assertEqual([r["full_name"] for r in summary["featured"]], ["other/project"])
+
+    def test_generated_text_is_english_only(self):
+        data = json.loads((ROOT / "data/public-contributions.json").read_text())
+        summary = stats.summarize(data)
+        outputs = [stats.hero_svg(self.config, "light"), stats.stats_svg(self.config, data, summary, "light"),
+                   stats.preview(self.config, data, summary)]
+        readme = stats.readme(self.config, data, summary)
+        # PR titles come from upstream projects, so check the README without the PR table rows.
+        outputs.append("\n".join(l for l in readme.splitlines() if not l.startswith("| [")))
+        for output in outputs:
+            self.assertIsNone(re.search(r"[\u4e00-\u9fff]", output))
 
 
 if __name__ == "__main__":

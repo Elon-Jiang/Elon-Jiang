@@ -3,100 +3,100 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img alt="姜泽栋 · Elon Jiang — 关注 Agent Harness、MCP 与 AI 应用工程，持续参与开源项目贡献。" src="./assets/hero-light.svg" width="100%">
+  <img alt="Elon Jiang — Building agent harnesses, MCP tooling, and AI applications. Active open-source contributor." src="./assets/hero-light.svg" width="100%">
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="28 个 PR 已合并 · 42 个待合并" src="./assets/contributions-light.svg" width="100%">
+  <img alt="28 PRs merged · 42 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[73 个公开 PR](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 已合并 / 42 待合并 / 3 关闭未合并**
+[73 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 merged / 42 open / 3 closed**
 
-仅统计公开仓库中由我创建、提给他人仓库的 PR；仓库 Star 数属于所贡献的项目。
+Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
 <details>
-<summary>查看全部 73 个 PR 与贡献仓库</summary>
+<summary>All 73 PRs and repositories</summary>
 
-| 仓库 | PR | 状态 |
+| Repository | Pull request | Status |
 | :--- | :--- | :--- |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | 待合并 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | 已合并 |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | 待合并 |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | 待合并 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | 已合并 |
-| [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | 待合并 |
-| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | 待合并 |
-| [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | 待合并 |
-| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3096 fix(dataset): keep seeded train/test splits reproducible](https://github.com/vibrantlabsai/ragas/pull/3096) | 待合并 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#24065 fix(core): preserve chat memory input snapshots during restore](https://github.com/run-llama/llama_index/pull/24065) | 待合并 |
-| [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#23976 fix(core): isolate SimpleKVStore dictionary snapshots](https://github.com/run-llama/llama_index/pull/23976) | 待合并 |
-| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [#7560 fix(sdk): report decoded binary file sizes](https://github.com/langchain-ai/deepagents/pull/7560) | 关闭未合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6199 fix(ts): interrupt tool retry backoff on cancellation](https://github.com/MervinPraison/PraisonAI/pull/6199) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6198 fix(ts): enforce tool payload limits in UTF-8 bytes](https://github.com/MervinPraison/PraisonAI/pull/6198) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6197 fix(ts): invalidate tool installation cache on registration changes](https://github.com/MervinPraison/PraisonAI/pull/6197) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6196 fix(ts): re-enter downstream tool middleware on retry](https://github.com/MervinPraison/PraisonAI/pull/6196) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6191 fix(ts): remove stale graph neighbors when an edge is rewired](https://github.com/MervinPraison/PraisonAI/pull/6191) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6190 fix(ts): ensure fixed-size chunking always advances](https://github.com/MervinPraison/PraisonAI/pull/6190) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6188 fix(ts): preserve sentence chunk content and source offsets](https://github.com/MervinPraison/PraisonAI/pull/6188) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6186 fix(ts): preserve session changes during file saves](https://github.com/MervinPraison/PraisonAI/pull/6186) | 已合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#7000 fix(py): isolate generated output format metadata](https://github.com/genkit-ai/genkit/pull/7000) | 待合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6999 fix(py): preserve message metadata when injecting output instructions](https://github.com/genkit-ai/genkit/pull/6999) | 待合并 |
-| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#578 fix(llm): stop Codex process before closing read pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/578) | 已合并 |
-| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#577 fix(llm): use UTF-8 for model CLI text pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/577) | 已合并 |
-| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#576 fix(llm): reject failed Claude CLI responses before returning stdout](https://github.com/algorithmicsuperintelligence/openevolve/pull/576) | 已合并 |
-| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#575 fix(trace): keep JSON export metadata reusable](https://github.com/algorithmicsuperintelligence/openevolve/pull/575) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6184 fix(ts): settle MCP requests when WebSocket connections close](https://github.com/MervinPraison/PraisonAI/pull/6184) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6183 fix(ts): evict empty keys from bounded MemoryCache](https://github.com/MervinPraison/PraisonAI/pull/6183) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6180 fix(ts): honor the configured FileCache TTL](https://github.com/MervinPraison/PraisonAI/pull/6180) | 已合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6998 fix(py): handle recursive schemas in array and JSONL formats](https://github.com/genkit-ai/genkit/pull/6998) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6178 fix(ts): resolve MCP WebSocket responses with zero request IDs](https://github.com/MervinPraison/PraisonAI/pull/6178) | 已合并 |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2252 fix(document): detect online document type from URL path](https://github.com/assafelovic/gpt-researcher/pull/2252) | 已合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6996 fix(py): ignore SSE heartbeat comments in agent streams](https://github.com/genkit-ai/genkit/pull/6996) | 待合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6995 fix(py): compare session snapshot creation instants chronologically](https://github.com/genkit-ai/genkit/pull/6995) | 待合并 |
-| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | [#253 fix(s4): quote paths when archiving interface variants](https://github.com/simular-ai/Agent-S/pull/253) | 待合并 |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#775 fix(embedding): skip empty SDK embedding requests](https://github.com/NevaMind-AI/memU/pull/775) | 待合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6992 fix(py): preserve application import errors in run_main](https://github.com/genkit-ai/genkit/pull/6992) | 待合并 |
-| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6991 fix(py): preserve nullable chunks in waiting stream readers](https://github.com/genkit-ai/genkit/pull/6991) | 待合并 |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2250 fix(vector-store): skip empty chunk batches](https://github.com/assafelovic/gpt-researcher/pull/2250) | 已合并 |
-| [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#726 fix(python): preserve memory and SQL message timestamps](https://github.com/2FastLabs/agent-squad/pull/726) | 待合并 |
-| [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#724 fix(storage): persist raw messages before updating summaries](https://github.com/2FastLabs/agent-squad/pull/724) | 待合并 |
-| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#204 fix(runner): reject nonpositive concurrency](https://github.com/agentscope-ai/OpenJudge/pull/204) | 已合并 |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1492 fix(core): snapshot in-memory persistence payloads](https://github.com/VoltAgent/voltagent/pull/1492) | 待合并 |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1491 fix(core): scope composite filesystem searches to requested paths](https://github.com/VoltAgent/voltagent/pull/1491) | 待合并 |
-| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | [#12077 fix(core): preserve prototype property names in RunnableMap](https://github.com/langchain-ai/langchainjs/pull/12077) | 待合并 |
-| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#568 fix(llm): avoid assuming custom clients store a model field](https://github.com/algorithmicsuperintelligence/openevolve/pull/568) | 已合并 |
-| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | [#650 fix(llm): preserve synchronous streaming during client registration](https://github.com/MemoriLabs/Memori/pull/650) | 待合并 |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#454 fix(resilience): await all asynchronous retry callback results](https://github.com/HKUDS/RAG-Anything/pull/454) | 待合并 |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4288 fix(utils): preserve cosine direction across finite vector scales](https://github.com/HKUDS/LightRAG/pull/4288) | 待合并 |
-| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [#667 fix(controller): await non-coroutine local worker results](https://github.com/microsoft/agent-lightning/pull/667) | 关闭未合并 |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#6260 fix(tokens): preserve concurrent pricing cache snapshots](https://github.com/browser-use/browser-use/pull/6260) | 待合并 |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | 待合并 |
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | 待合并 |
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3360 fix(sdk-ts): observe rejected operations after pre-abort](https://github.com/browserbase/stagehand/pull/3360) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | 已合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6147 fix(ts): reject negative memory capacities](https://github.com/MervinPraison/PraisonAI/pull/6147) | 关闭未合并 |
-| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2072 fix(python-sdk): notify on_exit after immediate watch stop](https://github.com/e2b-dev/E2B/pull/2072) | 待合并 |
-| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#203 fix(analyzer): restore consistency call support](https://github.com/agentscope-ai/OpenJudge/pull/203) | 已合并 |
-| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#3560 fix(classifiers): match whitespace-padded label names](https://github.com/confident-ai/deepeval/pull/3560) | 待合并 |
-| [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3355 fix(sdk-ts): reject FIFO uploads without blocking](https://github.com/browserbase/stagehand/pull/3355) | 待合并 |
-| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1490 fix(evals): propagate experiment callback failures](https://github.com/VoltAgent/voltagent/pull/1490) | 待合并 |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#733 fix(mcp-scan): normalize mixed-case MCP SARIF rule IDs](https://github.com/Tencent/AI-Infra-Guard/pull/733) | 已合并 |
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#287 fix(memory): keep distinct topic pointers during consolidation](https://github.com/HKUDS/DeepCode/pull/287) | 待合并 |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8114 fix(core): handle inherited property names in thread store registry](https://github.com/CopilotKit/CopilotKit/pull/8114) | 待合并 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6142 fix(ts): recover FileMemory writes after append failures](https://github.com/MervinPraison/PraisonAI/pull/6142) | 已合并 |
-| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8111 fix(core): replace all case variants when overlaying headers](https://github.com/CopilotKit/CopilotKit/pull/8111) | 待合并 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2625 fix(dashboard): display custom ACP runner names and commands](https://github.com/TencentCloud/Octop/pull/2625) | 待合并 |
-| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2624 fix(dashboard): keep HTML preview anchors inside the document](https://github.com/TencentCloud/Octop/pull/2624) | 待合并 |
-| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#11833 Allow `Coder` and `Researcher` to load from agent specs](https://github.com/pydantic/pydantic-ai/pull/11833) | 草稿 |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Open |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | Merged |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | Open |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | Merged |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | Open |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | Open |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | Open |
+| [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3096 fix(dataset): keep seeded train/test splits reproducible](https://github.com/vibrantlabsai/ragas/pull/3096) | Open |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#24065 fix(core): preserve chat memory input snapshots during restore](https://github.com/run-llama/llama_index/pull/24065) | Open |
+| [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#23976 fix(core): isolate SimpleKVStore dictionary snapshots](https://github.com/run-llama/llama_index/pull/23976) | Open |
+| [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | [#7560 fix(sdk): report decoded binary file sizes](https://github.com/langchain-ai/deepagents/pull/7560) | Closed |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6199 fix(ts): interrupt tool retry backoff on cancellation](https://github.com/MervinPraison/PraisonAI/pull/6199) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6198 fix(ts): enforce tool payload limits in UTF-8 bytes](https://github.com/MervinPraison/PraisonAI/pull/6198) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6197 fix(ts): invalidate tool installation cache on registration changes](https://github.com/MervinPraison/PraisonAI/pull/6197) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6196 fix(ts): re-enter downstream tool middleware on retry](https://github.com/MervinPraison/PraisonAI/pull/6196) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6191 fix(ts): remove stale graph neighbors when an edge is rewired](https://github.com/MervinPraison/PraisonAI/pull/6191) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6190 fix(ts): ensure fixed-size chunking always advances](https://github.com/MervinPraison/PraisonAI/pull/6190) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6188 fix(ts): preserve sentence chunk content and source offsets](https://github.com/MervinPraison/PraisonAI/pull/6188) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6186 fix(ts): preserve session changes during file saves](https://github.com/MervinPraison/PraisonAI/pull/6186) | Merged |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#7000 fix(py): isolate generated output format metadata](https://github.com/genkit-ai/genkit/pull/7000) | Open |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6999 fix(py): preserve message metadata when injecting output instructions](https://github.com/genkit-ai/genkit/pull/6999) | Open |
+| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#578 fix(llm): stop Codex process before closing read pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/578) | Merged |
+| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#577 fix(llm): use UTF-8 for model CLI text pipes](https://github.com/algorithmicsuperintelligence/openevolve/pull/577) | Merged |
+| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#576 fix(llm): reject failed Claude CLI responses before returning stdout](https://github.com/algorithmicsuperintelligence/openevolve/pull/576) | Merged |
+| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#575 fix(trace): keep JSON export metadata reusable](https://github.com/algorithmicsuperintelligence/openevolve/pull/575) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6184 fix(ts): settle MCP requests when WebSocket connections close](https://github.com/MervinPraison/PraisonAI/pull/6184) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6183 fix(ts): evict empty keys from bounded MemoryCache](https://github.com/MervinPraison/PraisonAI/pull/6183) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6180 fix(ts): honor the configured FileCache TTL](https://github.com/MervinPraison/PraisonAI/pull/6180) | Merged |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6998 fix(py): handle recursive schemas in array and JSONL formats](https://github.com/genkit-ai/genkit/pull/6998) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6178 fix(ts): resolve MCP WebSocket responses with zero request IDs](https://github.com/MervinPraison/PraisonAI/pull/6178) | Merged |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2252 fix(document): detect online document type from URL path](https://github.com/assafelovic/gpt-researcher/pull/2252) | Merged |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6996 fix(py): ignore SSE heartbeat comments in agent streams](https://github.com/genkit-ai/genkit/pull/6996) | Open |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6995 fix(py): compare session snapshot creation instants chronologically](https://github.com/genkit-ai/genkit/pull/6995) | Open |
+| [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | [#253 fix(s4): quote paths when archiving interface variants](https://github.com/simular-ai/Agent-S/pull/253) | Open |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#775 fix(embedding): skip empty SDK embedding requests](https://github.com/NevaMind-AI/memU/pull/775) | Open |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6992 fix(py): preserve application import errors in run_main](https://github.com/genkit-ai/genkit/pull/6992) | Open |
+| [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6991 fix(py): preserve nullable chunks in waiting stream readers](https://github.com/genkit-ai/genkit/pull/6991) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2250 fix(vector-store): skip empty chunk batches](https://github.com/assafelovic/gpt-researcher/pull/2250) | Merged |
+| [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#726 fix(python): preserve memory and SQL message timestamps](https://github.com/2FastLabs/agent-squad/pull/726) | Open |
+| [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) | [#724 fix(storage): persist raw messages before updating summaries](https://github.com/2FastLabs/agent-squad/pull/724) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#204 fix(runner): reject nonpositive concurrency](https://github.com/agentscope-ai/OpenJudge/pull/204) | Merged |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1492 fix(core): snapshot in-memory persistence payloads](https://github.com/VoltAgent/voltagent/pull/1492) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1491 fix(core): scope composite filesystem searches to requested paths](https://github.com/VoltAgent/voltagent/pull/1491) | Open |
+| [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | [#12077 fix(core): preserve prototype property names in RunnableMap](https://github.com/langchain-ai/langchainjs/pull/12077) | Open |
+| [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#568 fix(llm): avoid assuming custom clients store a model field](https://github.com/algorithmicsuperintelligence/openevolve/pull/568) | Merged |
+| [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | [#650 fix(llm): preserve synchronous streaming during client registration](https://github.com/MemoriLabs/Memori/pull/650) | Open |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#454 fix(resilience): await all asynchronous retry callback results](https://github.com/HKUDS/RAG-Anything/pull/454) | Open |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4288 fix(utils): preserve cosine direction across finite vector scales](https://github.com/HKUDS/LightRAG/pull/4288) | Open |
+| [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [#667 fix(controller): await non-coroutine local worker results](https://github.com/microsoft/agent-lightning/pull/667) | Closed |
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#6260 fix(tokens): preserve concurrent pricing cache snapshots](https://github.com/browser-use/browser-use/pull/6260) | Open |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | Open |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | Open |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3360 fix(sdk-ts): observe rejected operations after pre-abort](https://github.com/browserbase/stagehand/pull/3360) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | Merged |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6147 fix(ts): reject negative memory capacities](https://github.com/MervinPraison/PraisonAI/pull/6147) | Closed |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2072 fix(python-sdk): notify on_exit after immediate watch stop](https://github.com/e2b-dev/E2B/pull/2072) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#203 fix(analyzer): restore consistency call support](https://github.com/agentscope-ai/OpenJudge/pull/203) | Merged |
+| [confident-ai/deepeval](https://github.com/confident-ai/deepeval) | [#3560 fix(classifiers): match whitespace-padded label names](https://github.com/confident-ai/deepeval/pull/3560) | Open |
+| [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3355 fix(sdk-ts): reject FIFO uploads without blocking](https://github.com/browserbase/stagehand/pull/3355) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1490 fix(evals): propagate experiment callback failures](https://github.com/VoltAgent/voltagent/pull/1490) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#733 fix(mcp-scan): normalize mixed-case MCP SARIF rule IDs](https://github.com/Tencent/AI-Infra-Guard/pull/733) | Merged |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#287 fix(memory): keep distinct topic pointers during consolidation](https://github.com/HKUDS/DeepCode/pull/287) | Open |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8114 fix(core): handle inherited property names in thread store registry](https://github.com/CopilotKit/CopilotKit/pull/8114) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6142 fix(ts): recover FileMemory writes after append failures](https://github.com/MervinPraison/PraisonAI/pull/6142) | Merged |
+| [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8111 fix(core): replace all case variants when overlaying headers](https://github.com/CopilotKit/CopilotKit/pull/8111) | Open |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2625 fix(dashboard): display custom ACP runner names and commands](https://github.com/TencentCloud/Octop/pull/2625) | Open |
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | [#2624 fix(dashboard): keep HTML preview anchors inside the document](https://github.com/TencentCloud/Octop/pull/2624) | Open |
+| [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) | [#11833 Allow `Coder` and `Researcher` to load from agent specs](https://github.com/pydantic/pydantic-ai/pull/11833) | Draft |
 
 </details>
 
 ---
 
-<sub>统计每日自动更新 · [更新记录](https://github.com/Elon-Jiang/Elon-Jiang/actions/workflows/update-profile.yml)</sub>
+<sub>Refreshed daily · [Update history](https://github.com/Elon-Jiang/Elon-Jiang/actions/workflows/update-profile.yml)</sub>
