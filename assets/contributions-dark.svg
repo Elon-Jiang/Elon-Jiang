@@ -1,35 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">Open-source contributions</title><desc id="desc">28 merged, 42 open, 3 closed without merge. Stars belong to the contributed projects.</desc><rect width="1000" height="869" fill="#0d1117"/><text x="48" y="31" font-size="11" fill="#ba93ed" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="869" viewBox="0 0 1000 869" role="img" aria-labelledby="title desc"><title id="title">Open-source contributions</title><desc id="desc">28 merged, 46 open, 3 closed without merge. Stars belong to the contributed projects.</desc><rect width="1000" height="869" fill="#0d1117"/><text x="48" y="31" font-size="11" fill="#ba93ed" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" letter-spacing="2">▪ OPEN SOURCE CONTRIBUTIONS</text>
 <text x="952" y="31" font-size="11" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">github.com/Elon-Jiang</text>
 <path d="M48 53H952" stroke="#252c36" fill="none"/>
 <text x="48" y="145" font-size="73" fill="#e6edf3" font-weight="700" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">28</text>
 <text x="175" y="141" font-size="21" fill="#e6edf3" font-weight="650" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">PRs merged</text>
-<text x="48" y="179" font-size="13" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">73 public PRs · 42 open · 28 repositories · external repositories only</text>
+<text x="48" y="179" font-size="13" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">77 public PRs · 46 open · 30 repositories · external repositories only</text>
 <text x="48" y="219" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">Merged PRs, last 30 days</text>
 <path d="M48 285H952" stroke="#252c36" fill="none"/>
-<circle cx="699.93" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-01: 1 PR</title></circle>
-<circle cx="730.69" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
-<circle cx="730.69" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
-<circle cx="730.69" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
-<circle cx="730.69" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
-<circle cx="730.69" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
-<text x="730.6896551724137" y="217" font-size="10" fill="#ba93ed" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+2</text>
-<circle cx="792.21" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
-<circle cx="792.21" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
-<circle cx="792.21" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
-<circle cx="792.21" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
-<circle cx="792.21" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
-<text x="792.2068965517241" y="217" font-size="10" fill="#ba93ed" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+6</text>
-<circle cx="822.97" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
-<circle cx="822.97" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
-<circle cx="822.97" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
-<circle cx="822.97" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
-<circle cx="822.97" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
-<circle cx="946.00" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
-<circle cx="946.00" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
-<circle cx="946.00" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
-<circle cx="946.00" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
-<text x="48" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">10-11</text>
-<text x="952" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">11-09</text>
+<circle cx="669.17" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-01: 1 PR</title></circle>
+<circle cx="699.93" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
+<circle cx="699.93" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
+<circle cx="699.93" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
+<circle cx="699.93" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
+<circle cx="699.93" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-02: 7 PRs</title></circle>
+<text x="699.9310344827586" y="217" font-size="10" fill="#ba93ed" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+2</text>
+<circle cx="761.45" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
+<circle cx="761.45" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
+<circle cx="761.45" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
+<circle cx="761.45" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
+<circle cx="761.45" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-04: 11 PRs</title></circle>
+<text x="761.448275862069" y="217" font-size="10" fill="#ba93ed" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="middle">+6</text>
+<circle cx="792.21" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
+<circle cx="792.21" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
+<circle cx="792.21" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
+<circle cx="792.21" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
+<circle cx="792.21" cy="234" r="3.6" fill="#ba93ed"><title>2026-11-05: 5 PRs</title></circle>
+<circle cx="915.24" cy="274" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
+<circle cx="915.24" cy="264" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
+<circle cx="915.24" cy="254" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
+<circle cx="915.24" cy="244" r="3.6" fill="#ba93ed"><title>2026-11-09: 4 PRs</title></circle>
+<text x="48" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">10-12</text>
+<text x="952" y="309" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">11-10</text>
 <path d="M48 332H952" stroke="#252c36" fill="none"/>
 <text x="48" y="364" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" letter-spacing="1">REPOSITORY</text>
 <text x="779" y="364" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end" letter-spacing="1">PRS</text>
@@ -37,7 +37,7 @@
 <rect x="48" y="385" width="28" height="28" rx="7" fill="#8d66bd" fill-opacity="0.12"/>
 <text x="62" y="404" text-anchor="middle" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" font-size="10" font-weight="700" fill="#8d66bd">GP</text>
 <text x="96" y="405" font-size="16" fill="#e6edf3" font-weight="600" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace">assafelovic/gpt-researcher</text>
-<text x="779" y="405" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">2 merged · 0 open</text>
+<text x="779" y="405" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">2 merged · 1 open</text>
 <text x="952" y="405" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 30.6k</text>
 <path d="M48 433H952" stroke="#252c36" fill="none"/>
 <rect x="48" y="450" width="28" height="28" rx="7" fill="#4386b7" fill-opacity="0.12"/>
@@ -70,7 +70,7 @@
 <text x="779" y="730" font-size="12" fill="#b1bac4" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif" text-anchor="end">2 merged · 0 open</text>
 <text x="952" y="730" font-size="13" fill="#b1bac4" font-weight="500" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">☆ 1.1k</text>
 <path d="M48 758H952" stroke="#252c36" fill="none"/>
-<text x="96" y="781" font-size="12" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">+ 22 more repositories · full PR list below</text>
+<text x="96" y="781" font-size="12" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">+ 24 more repositories · full PR list below</text>
 <path d="M48 815H952" stroke="#252c36" fill="none"/>
 <text x="48" y="843" font-size="11" fill="#89929e" font-weight="400" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;Helvetica Neue&#x27;,Arial,sans-serif">Source: GitHub REST API · refreshed daily</text>
-<text x="952" y="843" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">Updated 2026-11-09 20:43 (UTC+8)</text></svg>
+<text x="952" y="843" font-size="10" fill="#89929e" font-weight="400" font-family="&#x27;SFMono-Regular&#x27;,Consolas,&#x27;Liberation Mono&#x27;,monospace" text-anchor="end">Updated 2026-11-10 12:33 (UTC+8)</text></svg>

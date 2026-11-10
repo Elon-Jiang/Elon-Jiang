@@ -9,18 +9,22 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="28 PRs merged · 42 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="28 PRs merged · 46 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[73 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 merged / 42 open / 3 closed**
+[77 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **28 merged / 46 open / 3 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
 <details>
-<summary>All 73 PRs and repositories</summary>
+<summary>All 77 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1897 bug: preserve Cohere base64 embedding results](https://github.com/Portkey-AI/gateway/pull/1897) | Open |
+| [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Open |
+| [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1896 bug: preserve UTF-8 across JSONL stream chunks](https://github.com/Portkey-AI/gateway/pull/1896) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2275 fix(markdown): keep fenced code out of report headings](https://github.com/assafelovic/gpt-researcher/pull/2275) | Open |
 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Open |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | Merged |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | Open |
