@@ -16,6 +16,13 @@
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
+### Adopted upstream
+
+Contributions incorporated into the upstream main branch through maintainer sync, rather than GitHub PR merges. Listed separately from the merged PR count.
+
+- **[NVIDIA/Isaac-GR00T #809](https://github.com/NVIDIA/Isaac-GR00T/pull/809)** · Timestamp interpolation: drop consecutive out-of-order timestamps · Author · [upstream commit `3b49067`](https://github.com/NVIDIA/Isaac-GR00T/commit/3b49067943eb1ab2eb2203b93d461c4390c78da3)
+- **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
+
 <details>
 <summary>All 86 PRs and repositories</summary>
 

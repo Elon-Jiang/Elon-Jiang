@@ -25,6 +25,20 @@ class ContributionTests(unittest.TestCase):
                 "url": f"https://github.com/other/project/pull/{number}", "state": state, "draft": draft,
                 "created_at": "2026-10-30T17:00:00Z", "merged_at": merged_at}
 
+    def test_adopted_highlights_survive_generation_without_inflating_merges(self):
+        self.data["pull_requests"] = [self.pr(809, "closed"), self.pr(810, "closed")]
+        summary = stats.summarize(self.data)
+        markdown = stats.readme(self.config, self.data, summary)
+        self.assertEqual(summary["merged"], 0)
+        self.assertIn("0 merged / 0 open / 2 closed", markdown)
+        self.assertIn("### Adopted upstream", markdown)
+        for item in self.config["adopted_contributions"]:
+            self.assertIn(item["commit"], markdown)
+            self.assertIn(item["credit"], markdown)
+        self.assertEqual(markdown, stats.readme(self.config, self.data, summary))
+        self.config.pop("adopted_contributions")
+        self.assertNotIn("### Adopted upstream", stats.readme(self.config, self.data, summary))
+
     def test_closed_unmerged_is_never_counted_as_merged(self):
         self.data["pull_requests"] = [self.pr(1, "closed"), self.pr(2), self.pr(3, "closed", "2026-10-31T02:00:00Z")]
         summary = stats.summarize(self.data)

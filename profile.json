@@ -5,5 +5,21 @@
   "intro": "Building agent harnesses, MCP tooling, and AI applications. Active open-source contributor.",
   "subtitle": "Undergraduate, Class of 2027 · Agent & AI application engineering",
   "max_repositories": 8,
-  "timezone": "Asia/Shanghai"
+  "timezone": "Asia/Shanghai",
+  "adopted_contributions": [
+    {
+      "repository": "NVIDIA/Isaac-GR00T",
+      "number": 809,
+      "title": "Timestamp interpolation: drop consecutive out-of-order timestamps",
+      "commit": "3b49067943eb1ab2eb2203b93d461c4390c78da3",
+      "credit": "Author"
+    },
+    {
+      "repository": "NVIDIA/Isaac-GR00T",
+      "number": 810,
+      "title": "Policy client: handle request timeouts and socket shutdown",
+      "commit": "99596968dde1a4ba96d909878916a36423a9752e",
+      "credit": "Co-author"
+    }
+  ]
 }
