@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="30 PRs merged · 53 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="30 PRs merged · 57 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[86 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **30 merged / 53 open / 3 closed**
+[92 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **30 merged / 57 open / 5 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,11 +24,17 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 86 PRs and repositories</summary>
+<summary>All 92 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
-| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#809 Fix consecutive non-monotonic timestamps in action interpolation](https://github.com/NVIDIA/Isaac-GR00T/pull/809) | Open |
+| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#810 fix(policy): close retired sockets during timeout recovery](https://github.com/NVIDIA/Isaac-GR00T/pull/810) | Closed |
+| [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | [#1515 Preserve clean controls in histogram localization observations](https://github.com/AtsushiSakai/PythonRobotics/pull/1515) | Open |
+| [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#365 Reject impossible maze reset sampling instead of looping forever](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/365) | Open |
+| [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | [#1514 Fix FastSLAM resampling state and landmark copies](https://github.com/AtsushiSakai/PythonRobotics/pull/1514) | Open |
+| [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | [#937 fix(mobile): preserve fractional limits for integer controls](https://github.com/petercorke/robotics-toolbox-python/pull/937) | Open |
+| [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | [#1087 Fix query-sensitive download caching and literal file retrieval](https://github.com/Physical-Intelligence/openpi/pull/1087) | Open |
+| [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#809 Fix consecutive non-monotonic timestamps in action interpolation](https://github.com/NVIDIA/Isaac-GR00T/pull/809) | Closed |
 | [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#886 fix(camera): construct valid batched and vertical views](https://github.com/RoboVerseOrg/RoboVerse/pull/886) | Open |
 | [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#885 fix(replay): fail validation on non-finite states](https://github.com/RoboVerseOrg/RoboVerse/pull/885) | Open |
 | [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#364 Fix FrankaKitchen reward recomputation after task completion](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/364) | Open |
