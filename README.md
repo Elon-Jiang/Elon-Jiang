@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="30 PRs merged · 57 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="38 PRs merged · 54 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[92 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **30 merged / 57 open / 5 closed**
+[97 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **38 merged / 54 open / 5 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,10 +24,15 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 92 PRs and repositories</summary>
+<summary>All 97 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#13690 fix(tools): keep dataclass default factories lazy](https://github.com/deepset-ai/haystack/pull/13690) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#755 fix(scanners): handle async local tool execution errors](https://github.com/Tencent/AI-Infra-Guard/pull/755) | Merged |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#754 fix(agent-scan): decode batch arrays from XML parameters](https://github.com/Tencent/AI-Infra-Guard/pull/754) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#234 fix(grader): await results from callable evaluators](https://github.com/agentscope-ai/OpenJudge/pull/234) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#233 fix(runner): accept a single callable aggregator](https://github.com/agentscope-ai/OpenJudge/pull/233) | Merged |
 | [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#810 fix(policy): close retired sockets during timeout recovery](https://github.com/NVIDIA/Isaac-GR00T/pull/810) | Closed |
 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | [#1515 Preserve clean controls in histogram localization observations](https://github.com/AtsushiSakai/PythonRobotics/pull/1515) | Open |
 | [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#365 Reject impossible maze reset sampling instead of looping forever](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/365) | Open |
@@ -39,15 +44,15 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#885 fix(replay): fail validation on non-finite states](https://github.com/RoboVerseOrg/RoboVerse/pull/885) | Open |
 | [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#364 Fix FrankaKitchen reward recomputation after task completion](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/364) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1524 fix(core): report in-memory file sizes in UTF-8 bytes](https://github.com/VoltAgent/voltagent/pull/1524) | Open |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#747 fix(agent-scan): preserve prompt escapes in provider templates](https://github.com/Tencent/AI-Infra-Guard/pull/747) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#747 fix(agent-scan): preserve prompt escapes in provider templates](https://github.com/Tencent/AI-Infra-Guard/pull/747) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#229 fix(models): honor per-call OpenAI streaming mode](https://github.com/agentscope-ai/OpenJudge/pull/229) | Merged |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#746 fix(agent-scan): preserve non-object HTTP error responses](https://github.com/Tencent/AI-Infra-Guard/pull/746) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#746 fix(agent-scan): preserve non-object HTTP error responses](https://github.com/Tencent/AI-Infra-Guard/pull/746) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#228 fix(models): format Omni audio once](https://github.com/agentscope-ai/OpenJudge/pull/228) | Merged |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1897 bug: preserve Cohere base64 embedding results](https://github.com/Portkey-AI/gateway/pull/1897) | Open |
 | [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Open |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1896 bug: preserve UTF-8 across JSONL stream chunks](https://github.com/Portkey-AI/gateway/pull/1896) | Open |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2275 fix(markdown): keep fenced code out of report headings](https://github.com/assafelovic/gpt-researcher/pull/2275) | Open |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Open |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Merged |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | Merged |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | Open |
@@ -98,7 +103,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | [#12077 fix(core): preserve prototype property names in RunnableMap](https://github.com/langchain-ai/langchainjs/pull/12077) | Open |
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#568 fix(llm): avoid assuming custom clients store a model field](https://github.com/algorithmicsuperintelligence/openevolve/pull/568) | Merged |
 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | [#650 fix(llm): preserve synchronous streaming during client registration](https://github.com/MemoriLabs/Memori/pull/650) | Open |
-| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#454 fix(resilience): await all asynchronous retry callback results](https://github.com/HKUDS/RAG-Anything/pull/454) | Open |
+| [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#454 fix(resilience): await all asynchronous retry callback results](https://github.com/HKUDS/RAG-Anything/pull/454) | Merged |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4288 fix(utils): preserve cosine direction across finite vector scales](https://github.com/HKUDS/LightRAG/pull/4288) | Open |
 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [#667 fix(controller): await non-coroutine local worker results](https://github.com/microsoft/agent-lightning/pull/667) | Closed |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#6260 fix(tokens): preserve concurrent pricing cache snapshots](https://github.com/browser-use/browser-use/pull/6260) | Open |

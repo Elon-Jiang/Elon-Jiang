@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-11T09:29:42+00:00",
+  "updated_at": "2026-11-12T09:53:25+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -12,6 +12,61 @@
     "bio": null
   },
   "pull_requests": [
+    {
+      "id": 6328977963,
+      "number": 13690,
+      "repository": "deepset-ai/haystack",
+      "title": "fix(tools): keep dataclass default factories lazy",
+      "url": "https://github.com/deepset-ai/haystack/pull/13690",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-11T12:59:35Z",
+      "merged_at": null
+    },
+    {
+      "id": 6328715934,
+      "number": 755,
+      "repository": "Tencent/AI-Infra-Guard",
+      "title": "fix(scanners): handle async local tool execution errors",
+      "url": "https://github.com/Tencent/AI-Infra-Guard/pull/755",
+      "state": "closed",
+      "draft": false,
+      "created_at": "2026-11-11T12:44:44Z",
+      "merged_at": "2026-11-12T01:59:18Z"
+    },
+    {
+      "id": 6328534220,
+      "number": 754,
+      "repository": "Tencent/AI-Infra-Guard",
+      "title": "fix(agent-scan): decode batch arrays from XML parameters",
+      "url": "https://github.com/Tencent/AI-Infra-Guard/pull/754",
+      "state": "closed",
+      "draft": false,
+      "created_at": "2026-11-11T12:34:11Z",
+      "merged_at": "2026-11-12T01:59:15Z"
+    },
+    {
+      "id": 6328419666,
+      "number": 234,
+      "repository": "agentscope-ai/OpenJudge",
+      "title": "fix(grader): await results from callable evaluators",
+      "url": "https://github.com/agentscope-ai/OpenJudge/pull/234",
+      "state": "closed",
+      "draft": false,
+      "created_at": "2026-11-11T12:27:27Z",
+      "merged_at": "2026-11-12T02:45:09Z"
+    },
+    {
+      "id": 6328303964,
+      "number": 233,
+      "repository": "agentscope-ai/OpenJudge",
+      "title": "fix(runner): accept a single callable aggregator",
+      "url": "https://github.com/agentscope-ai/OpenJudge/pull/233",
+      "state": "closed",
+      "draft": false,
+      "created_at": "2026-11-11T12:20:37Z",
+      "merged_at": "2026-11-12T02:41:40Z"
+    },
     {
       "id": 6305781711,
       "number": 810,
@@ -139,10 +194,10 @@
       "repository": "Tencent/AI-Infra-Guard",
       "title": "fix(agent-scan): preserve prompt escapes in provider templates",
       "url": "https://github.com/Tencent/AI-Infra-Guard/pull/747",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-10T05:11:37Z",
-      "merged_at": null
+      "merged_at": "2026-11-12T01:58:35Z"
     },
     {
       "id": 6300681353,
@@ -161,10 +216,10 @@
       "repository": "Tencent/AI-Infra-Guard",
       "title": "fix(agent-scan): preserve non-object HTTP error responses",
       "url": "https://github.com/Tencent/AI-Infra-Guard/pull/746",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-10T05:00:30Z",
-      "merged_at": null
+      "merged_at": "2026-11-12T01:57:57Z"
     },
     {
       "id": 6300464307,
@@ -227,10 +282,10 @@
       "repository": "HKUDS/RAG-Anything",
       "title": "fix(resilience): release interrupted synchronous recovery probes",
       "url": "https://github.com/HKUDS/RAG-Anything/pull/469",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-09T12:14:55Z",
-      "merged_at": null
+      "merged_at": "2026-11-12T07:26:01Z"
     },
     {
       "id": 6267632504,
@@ -788,10 +843,10 @@
       "repository": "HKUDS/RAG-Anything",
       "title": "fix(resilience): await all asynchronous retry callback results",
       "url": "https://github.com/HKUDS/RAG-Anything/pull/454",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-10-31T10:28:01Z",
-      "merged_at": null
+      "merged_at": "2026-11-12T07:27:46Z"
     },
     {
       "id": 6131228286,
@@ -1029,72 +1084,72 @@
     {
       "full_name": "2FastLabs/agent-squad",
       "url": "https://github.com/2FastLabs/agent-squad",
-      "stars": 7804
+      "stars": 7802
     },
     {
       "full_name": "567-labs/instructor",
       "url": "https://github.com/567-labs/instructor",
-      "stars": 14105
+      "stars": 14109
     },
     {
       "full_name": "AtsushiSakai/PythonRobotics",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
-      "stars": 30892
+      "stars": 30898
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38627
+      "stars": 38657
     },
     {
       "full_name": "Farama-Foundation/Gymnasium-Robotics",
       "url": "https://github.com/Farama-Foundation/Gymnasium-Robotics",
-      "stars": 1964
+      "stars": 1965
     },
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16838
+      "stars": 16839
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40653
+      "stars": 40669
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24484
+      "stars": 24501
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17548
+      "stars": 17558
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9333
+      "stars": 9335
     },
     {
       "full_name": "NVIDIA/Isaac-GR00T",
       "url": "https://github.com/NVIDIA/Isaac-GR00T",
-      "stars": 8352
+      "stars": 8359
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14615
+      "stars": 14618
     },
     {
       "full_name": "Physical-Intelligence/openpi",
       "url": "https://github.com/Physical-Intelligence/openpi",
-      "stars": 14609
+      "stars": 14624
     },
     {
       "full_name": "Portkey-AI/gateway",
       "url": "https://github.com/Portkey-AI/gateway",
-      "stars": 13365
+      "stars": 13369
     },
     {
       "full_name": "RoboVerseOrg/RoboVerse",
@@ -1104,67 +1159,72 @@
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7464
+      "stars": 7480
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 11903
+      "stars": 11974
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 10949
+      "stars": 10963
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1088
+      "stars": 1095
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7759
+      "stars": 7766
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30626
+      "stars": 30642
     },
     {
       "full_name": "assistant-ui/assistant-ui",
       "url": "https://github.com/assistant-ui/assistant-ui",
-      "stars": 13056
+      "stars": 13082
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120662
+      "stars": 120796
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 25998
+      "stars": 26010
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19431
+      "stars": 19456
+    },
+    {
+      "full_name": "deepset-ai/haystack",
+      "url": "https://github.com/deepset-ai/haystack",
+      "stars": 26997
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14806
+      "stars": 14821
     },
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6580
+      "stars": 6581
     },
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31194
+      "stars": 31236
     },
     {
       "full_name": "langchain-ai/langchainjs",
@@ -1174,37 +1234,37 @@
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18943
+      "stars": 18947
     },
     {
       "full_name": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
-      "stars": 13287
+      "stars": 13318
     },
     {
       "full_name": "petercorke/robotics-toolbox-python",
       "url": "https://github.com/petercorke/robotics-toolbox-python",
-      "stars": 3580
+      "stars": 3582
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21136
+      "stars": 21160
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52872
+      "stars": 52882
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12933
+      "stars": 12949
     },
     {
       "full_name": "vibrantlabsai/ragas",
       "url": "https://github.com/vibrantlabsai/ragas",
-      "stars": 16290
+      "stars": 16306
     }
   ]
 }
