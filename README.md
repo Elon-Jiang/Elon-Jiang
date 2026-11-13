@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="38 PRs merged · 54 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="38 PRs merged · 56 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[97 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **38 merged / 54 open / 5 closed**
+[99 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **38 merged / 56 open / 5 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,10 +24,12 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 97 PRs and repositories</summary>
+<summary>All 99 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [567-labs/instructor](https://github.com/567-labs/instructor) | [#3037 fix(partial): preserve typed tuples in streamed snapshots](https://github.com/567-labs/instructor/pull/3037) | Open |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2135 fix(template): preserve millisecond readiness waits](https://github.com/e2b-dev/E2B/pull/2135) | Open |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#13690 fix(tools): keep dataclass default factories lazy](https://github.com/deepset-ai/haystack/pull/13690) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#755 fix(scanners): handle async local tool execution errors](https://github.com/Tencent/AI-Infra-Guard/pull/755) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#754 fix(agent-scan): decode batch arrays from XML parameters](https://github.com/Tencent/AI-Infra-Guard/pull/754) | Merged |
