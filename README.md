@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="38 PRs merged · 64 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="41 PRs merged · 59 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[107 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **38 merged / 64 open / 5 closed**
+[107 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **41 merged / 59 open / 7 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -30,13 +30,13 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | :--- | :--- | :--- |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#761 fix(runner): stop CIDR enumeration at final IPv4 address](https://github.com/Tencent/AI-Infra-Guard/pull/761) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#760 fix(agent-scan,mcp-scan): honor finish tool name casing](https://github.com/Tencent/AI-Infra-Guard/pull/760) | Open |
-| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#238 fix(text): compare numbers before float rounding](https://github.com/agentscope-ai/OpenJudge/pull/238) | Open |
-| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#237 fix(format): keep soft penalty zero at threshold](https://github.com/agentscope-ai/OpenJudge/pull/237) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#238 fix(text): compare numbers before float rounding](https://github.com/agentscope-ai/OpenJudge/pull/238) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#237 fix(format): keep soft penalty zero at threshold](https://github.com/agentscope-ai/OpenJudge/pull/237) | Merged |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | [#2148 fix: bind positional driver for single FalkorDB group](https://github.com/getzep/graphiti/pull/2148) | Open |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2137 fix(sdk): resolve directory symlinks in template copies](https://github.com/e2b-dev/E2B/pull/2137) | Open |
-| [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1464 fix(client): handle case-insensitive SSE media types](https://github.com/a2aproject/a2a-python/pull/1464) | Open |
+| [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1464 fix(client): handle case-insensitive SSE media types](https://github.com/a2aproject/a2a-python/pull/1464) | Merged |
 | [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) | [#3368 fix(langgraph-checkpoint-postgres): honor empty membership filters](https://github.com/langchain-ai/langgraphjs/pull/3368) | Open |
-| [567-labs/instructor](https://github.com/567-labs/instructor) | [#3037 fix(partial): preserve typed tuples in streamed snapshots](https://github.com/567-labs/instructor/pull/3037) | Open |
+| [567-labs/instructor](https://github.com/567-labs/instructor) | [#3037 fix(partial): preserve typed tuples in streamed snapshots](https://github.com/567-labs/instructor/pull/3037) | Closed |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2135 fix(template): preserve millisecond readiness waits](https://github.com/e2b-dev/E2B/pull/2135) | Open |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | [#13690 fix(tools): keep dataclass default factories lazy](https://github.com/deepset-ai/haystack/pull/13690) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#755 fix(scanners): handle async local tool execution errors](https://github.com/Tencent/AI-Infra-Guard/pull/755) | Merged |
@@ -59,7 +59,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#746 fix(agent-scan): preserve non-object HTTP error responses](https://github.com/Tencent/AI-Infra-Guard/pull/746) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#228 fix(models): format Omni audio once](https://github.com/agentscope-ai/OpenJudge/pull/228) | Merged |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1897 bug: preserve Cohere base64 embedding results](https://github.com/Portkey-AI/gateway/pull/1897) | Open |
-| [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Open |
+| [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Closed |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1896 bug: preserve UTF-8 across JSONL stream chunks](https://github.com/Portkey-AI/gateway/pull/1896) | Open |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2275 fix(markdown): keep fenced code out of report headings](https://github.com/assafelovic/gpt-researcher/pull/2275) | Open |
 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Merged |

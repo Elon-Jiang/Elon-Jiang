@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-14T09:01:36+00:00",
+  "updated_at": "2026-11-15T09:30:32+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -40,10 +40,10 @@
       "repository": "agentscope-ai/OpenJudge",
       "title": "fix(text): compare numbers before float rounding",
       "url": "https://github.com/agentscope-ai/OpenJudge/pull/238",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-14T05:14:52Z",
-      "merged_at": null
+      "merged_at": "2026-11-15T03:12:41Z"
     },
     {
       "id": 6385506819,
@@ -51,10 +51,10 @@
       "repository": "agentscope-ai/OpenJudge",
       "title": "fix(format): keep soft penalty zero at threshold",
       "url": "https://github.com/agentscope-ai/OpenJudge/pull/237",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-14T05:01:29Z",
-      "merged_at": null
+      "merged_at": "2026-11-15T03:12:15Z"
     },
     {
       "id": 6385358360,
@@ -84,10 +84,10 @@
       "repository": "a2aproject/a2a-python",
       "title": "fix(client): handle case-insensitive SSE media types",
       "url": "https://github.com/a2aproject/a2a-python/pull/1464",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-13T10:25:48Z",
-      "merged_at": null
+      "merged_at": "2026-11-14T13:42:55Z"
     },
     {
       "id": 6368745701,
@@ -106,7 +106,7 @@
       "repository": "567-labs/instructor",
       "title": "fix(partial): preserve typed tuples in streamed snapshots",
       "url": "https://github.com/567-labs/instructor/pull/3037",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-13T08:57:22Z",
       "merged_at": null
@@ -359,7 +359,7 @@
       "repository": "567-labs/instructor",
       "title": "fix(templating): render an explicitly supplied empty context",
       "url": "https://github.com/567-labs/instructor/pull/2992",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-09T13:48:48Z",
       "merged_at": null
@@ -1204,17 +1204,17 @@
     {
       "full_name": "AtsushiSakai/PythonRobotics",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
-      "stars": 30911
+      "stars": 30919
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38696
+      "stars": 38708
     },
     {
       "full_name": "Farama-Foundation/Gymnasium-Robotics",
       "url": "https://github.com/Farama-Foundation/Gymnasium-Robotics",
-      "stars": 1965
+      "stars": 1966
     },
     {
       "full_name": "HKUDS/DeepCode",
@@ -1224,57 +1224,57 @@
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40689
+      "stars": 40704
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24518
+      "stars": 24545
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17569
+      "stars": 17583
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9336
+      "stars": 9337
     },
     {
       "full_name": "NVIDIA/Isaac-GR00T",
       "url": "https://github.com/NVIDIA/Isaac-GR00T",
-      "stars": 8371
+      "stars": 8376
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14623
+      "stars": 14622
     },
     {
       "full_name": "Physical-Intelligence/openpi",
       "url": "https://github.com/Physical-Intelligence/openpi",
-      "stars": 14646
+      "stars": 14650
     },
     {
       "full_name": "Portkey-AI/gateway",
       "url": "https://github.com/Portkey-AI/gateway",
-      "stars": 13377
+      "stars": 13382
     },
     {
       "full_name": "RoboVerseOrg/RoboVerse",
       "url": "https://github.com/RoboVerseOrg/RoboVerse",
-      "stars": 1883
+      "stars": 1882
     },
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7502
+      "stars": 7509
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 12033
+      "stars": 12050
     },
     {
       "full_name": "VoltAgent/voltagent",
@@ -1284,67 +1284,67 @@
     {
       "full_name": "a2aproject/a2a-python",
       "url": "https://github.com/a2aproject/a2a-python",
-      "stars": 2245
+      "stars": 2246
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1100
+      "stars": 1102
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7777
+      "stars": 7782
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30677
+      "stars": 30696
     },
     {
       "full_name": "assistant-ui/assistant-ui",
       "url": "https://github.com/assistant-ui/assistant-ui",
-      "stars": 13120
+      "stars": 13224
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 120974
+      "stars": 121068
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 26042
+      "stars": 26055
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19475
+      "stars": 19484
     },
     {
       "full_name": "deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
-      "stars": 27004
+      "stars": 27011
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14859
+      "stars": 14866
     },
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6587
+      "stars": 6592
     },
     {
       "full_name": "getzep/graphiti",
       "url": "https://github.com/getzep/graphiti",
-      "stars": 32800
+      "stars": 32814
     },
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31276
+      "stars": 31292
     },
     {
       "full_name": "langchain-ai/langchainjs",
@@ -1354,42 +1354,42 @@
     {
       "full_name": "langchain-ai/langgraphjs",
       "url": "https://github.com/langchain-ai/langgraphjs",
-      "stars": 3415
+      "stars": 3416
     },
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18952
+      "stars": 18955
     },
     {
       "full_name": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
-      "stars": 13394
+      "stars": 13400
     },
     {
       "full_name": "petercorke/robotics-toolbox-python",
       "url": "https://github.com/petercorke/robotics-toolbox-python",
-      "stars": 3586
+      "stars": 3589
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21201
+      "stars": 21219
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52895
+      "stars": 52907
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12968
+      "stars": 12973
     },
     {
       "full_name": "vibrantlabsai/ragas",
       "url": "https://github.com/vibrantlabsai/ragas",
-      "stars": 16316
+      "stars": 16323
     }
   ]
 }
