@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="41 PRs merged · 59 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="49 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[107 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **41 merged / 59 open / 7 closed**
+[117 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **49 merged / 61 open / 7 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,12 +24,22 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 107 PRs and repositories</summary>
+<summary>All 117 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#761 fix(runner): stop CIDR enumeration at final IPv4 address](https://github.com/Tencent/AI-Infra-Guard/pull/761) | Open |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#760 fix(agent-scan,mcp-scan): honor finish tool name casing](https://github.com/Tencent/AI-Infra-Guard/pull/760) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#767 fix(models): count usage-only stream chunks](https://github.com/Tencent/AI-Infra-Guard/pull/767) | Merged |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#766 fix(httpx): honor configured Host headers](https://github.com/Tencent/AI-Infra-Guard/pull/766) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#240 fix(format): compare JSON numbers exactly](https://github.com/agentscope-ai/OpenJudge/pull/240) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#239 fix(agent): ignore tool argument key order](https://github.com/agentscope-ai/OpenJudge/pull/239) | Merged |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2312 fix: preserve generation options for tool completions](https://github.com/assafelovic/gpt-researcher/pull/2312) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#899 fix(funcs): forward embedding callback context consistently](https://github.com/ax-llm/ax/pull/899) | Open |
+| [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1471 fix(server): commit terminal state after event publication](https://github.com/a2aproject/a2a-python/pull/1471) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1548 fix(rag): tokenize special-token spellings as document text](https://github.com/VoltAgent/voltagent/pull/1548) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#898 fix(eval): keep F1 finite for constructor tokens](https://github.com/ax-llm/ax/pull/898) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2311 fix(costs): count literal special-token text](https://github.com/assafelovic/gpt-researcher/pull/2311) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#761 fix(runner): stop CIDR enumeration at final IPv4 address](https://github.com/Tencent/AI-Infra-Guard/pull/761) | Merged |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#760 fix(agent-scan,mcp-scan): honor finish tool name casing](https://github.com/Tencent/AI-Infra-Guard/pull/760) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#238 fix(text): compare numbers before float rounding](https://github.com/agentscope-ai/OpenJudge/pull/238) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#237 fix(format): keep soft penalty zero at threshold](https://github.com/agentscope-ai/OpenJudge/pull/237) | Merged |
 | [getzep/graphiti](https://github.com/getzep/graphiti) | [#2148 fix: bind positional driver for single FalkorDB group](https://github.com/getzep/graphiti/pull/2148) | Open |
@@ -118,7 +128,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [#667 fix(controller): await non-coroutine local worker results](https://github.com/microsoft/agent-lightning/pull/667) | Closed |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#6260 fix(tokens): preserve concurrent pricing cache snapshots](https://github.com/browser-use/browser-use/pull/6260) | Open |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | Open |
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | Open |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | Merged |
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3360 fix(sdk-ts): observe rejected operations after pre-abort](https://github.com/browserbase/stagehand/pull/3360) | Open |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6147 fix(ts): reject negative memory capacities](https://github.com/MervinPraison/PraisonAI/pull/6147) | Closed |
@@ -128,7 +138,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3355 fix(sdk-ts): reject FIFO uploads without blocking](https://github.com/browserbase/stagehand/pull/3355) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1490 fix(evals): propagate experiment callback failures](https://github.com/VoltAgent/voltagent/pull/1490) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#733 fix(mcp-scan): normalize mixed-case MCP SARIF rule IDs](https://github.com/Tencent/AI-Infra-Guard/pull/733) | Merged |
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#287 fix(memory): keep distinct topic pointers during consolidation](https://github.com/HKUDS/DeepCode/pull/287) | Open |
+| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#287 fix(memory): keep distinct topic pointers during consolidation](https://github.com/HKUDS/DeepCode/pull/287) | Merged |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8114 fix(core): handle inherited property names in thread store registry](https://github.com/CopilotKit/CopilotKit/pull/8114) | Open |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6142 fix(ts): recover FileMemory writes after append failures](https://github.com/MervinPraison/PraisonAI/pull/6142) | Merged |
 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | [#8111 fix(core): replace all case variants when overlaying headers](https://github.com/CopilotKit/CopilotKit/pull/8111) | Open |
