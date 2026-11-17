@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="49 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="56 PRs merged · 68 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[117 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **49 merged / 61 open / 7 closed**
+[132 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **56 merged / 68 open / 8 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,19 +24,34 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 117 PRs and repositories</summary>
+<summary>All 132 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2628 fix: preserve the default HTTP BGE reranking strategy](https://github.com/MemTensor/MemOS/pull/2628) | Open |
+| [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2134 fix(observe): end spans when output transformation fails](https://github.com/langfuse/langfuse-python/pull/2134) | Open |
+| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#199 fix(stdio): settle writer close and disconnection](https://github.com/agentclientprotocol/python-sdk/pull/199) | Open |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2626 fix: honor bearer tokens in HTTP BGE rerankers](https://github.com/MemTensor/MemOS/pull/2626) | Open |
+| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#198 fix(http): accept CR line endings in SSE streams](https://github.com/agentclientprotocol/python-sdk/pull/198) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#771 fix(agent-scan): send JSON array request bodies](https://github.com/Tencent/AI-Infra-Guard/pull/771) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#770 fix(agent-scan): preserve provider config metadata](https://github.com/Tencent/AI-Infra-Guard/pull/770) | Open |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#242 fix(models): isolate nonstream thinking defaults](https://github.com/agentscope-ai/OpenJudge/pull/242) | Merged |
+| [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#241 fix(models): support typed tool results](https://github.com/agentscope-ai/OpenJudge/pull/241) | Merged |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2153 fix(sdk): report both-added and both-deleted Git conflicts](https://github.com/e2b-dev/E2B/pull/2153) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#909 fix(funcs): reject Docker image pull stream errors](https://github.com/ax-llm/ax/pull/909) | Open |
+| [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1552 fix(rag): scope chunk IDs to their source document](https://github.com/VoltAgent/voltagent/pull/1552) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#907 fix(funcs): stop containers using Docker list states](https://github.com/ax-llm/ax/pull/907) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2326 fix: construct custom tools with callback schemas](https://github.com/assafelovic/gpt-researcher/pull/2326) | Open |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2152 fix(js-sdk): snapshot queued Buffer input bytes](https://github.com/e2b-dev/E2B/pull/2152) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#767 fix(models): count usage-only stream chunks](https://github.com/Tencent/AI-Infra-Guard/pull/767) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#766 fix(httpx): honor configured Host headers](https://github.com/Tencent/AI-Infra-Guard/pull/766) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#240 fix(format): compare JSON numbers exactly](https://github.com/agentscope-ai/OpenJudge/pull/240) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#239 fix(agent): ignore tool argument key order](https://github.com/agentscope-ai/OpenJudge/pull/239) | Merged |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2312 fix: preserve generation options for tool completions](https://github.com/assafelovic/gpt-researcher/pull/2312) | Open |
-| [ax-llm/ax](https://github.com/ax-llm/ax) | [#899 fix(funcs): forward embedding callback context consistently](https://github.com/ax-llm/ax/pull/899) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#899 fix(funcs): forward embedding callback context consistently](https://github.com/ax-llm/ax/pull/899) | Merged |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1471 fix(server): commit terminal state after event publication](https://github.com/a2aproject/a2a-python/pull/1471) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1548 fix(rag): tokenize special-token spellings as document text](https://github.com/VoltAgent/voltagent/pull/1548) | Open |
-| [ax-llm/ax](https://github.com/ax-llm/ax) | [#898 fix(eval): keep F1 finite for constructor tokens](https://github.com/ax-llm/ax/pull/898) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#898 fix(eval): keep F1 finite for constructor tokens](https://github.com/ax-llm/ax/pull/898) | Merged |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2311 fix(costs): count literal special-token text](https://github.com/assafelovic/gpt-researcher/pull/2311) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#761 fix(runner): stop CIDR enumeration at final IPv4 address](https://github.com/Tencent/AI-Infra-Guard/pull/761) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#760 fix(agent-scan,mcp-scan): honor finish tool name casing](https://github.com/Tencent/AI-Infra-Guard/pull/760) | Merged |
@@ -91,9 +106,9 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6195 fix(ts): release hook deadline timers after settlement](https://github.com/MervinPraison/PraisonAI/pull/6195) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6194 fix(ts): keep hook inspection from freezing registration](https://github.com/MervinPraison/PraisonAI/pull/6194) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6193 fix(ts): preserve concurrent FileCache list appends](https://github.com/MervinPraison/PraisonAI/pull/6193) | Merged |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6192 fix(ts): initialize and route MCP stdio requests correctly](https://github.com/MervinPraison/PraisonAI/pull/6192) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6191 fix(ts): remove stale graph neighbors when an edge is rewired](https://github.com/MervinPraison/PraisonAI/pull/6191) | Merged |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6190 fix(ts): ensure fixed-size chunking always advances](https://github.com/MervinPraison/PraisonAI/pull/6190) | Open |
+| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6190 fix(ts): ensure fixed-size chunking always advances](https://github.com/MervinPraison/PraisonAI/pull/6190) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6188 fix(ts): preserve sentence chunk content and source offsets](https://github.com/MervinPraison/PraisonAI/pull/6188) | Merged |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6186 fix(ts): preserve session changes during file saves](https://github.com/MervinPraison/PraisonAI/pull/6186) | Merged |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#7000 fix(py): isolate generated output format metadata](https://github.com/genkit-ai/genkit/pull/7000) | Open |
@@ -124,10 +139,10 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [algorithmicsuperintelligence/openevolve](https://github.com/algorithmicsuperintelligence/openevolve) | [#568 fix(llm): avoid assuming custom clients store a model field](https://github.com/algorithmicsuperintelligence/openevolve/pull/568) | Merged |
 | [MemoriLabs/Memori](https://github.com/MemoriLabs/Memori) | [#650 fix(llm): preserve synchronous streaming during client registration](https://github.com/MemoriLabs/Memori/pull/650) | Open |
 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#454 fix(resilience): await all asynchronous retry callback results](https://github.com/HKUDS/RAG-Anything/pull/454) | Merged |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4288 fix(utils): preserve cosine direction across finite vector scales](https://github.com/HKUDS/LightRAG/pull/4288) | Open |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4288 fix(utils): preserve cosine direction across finite vector scales](https://github.com/HKUDS/LightRAG/pull/4288) | Closed |
 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | [#667 fix(controller): await non-coroutine local worker results](https://github.com/microsoft/agent-lightning/pull/667) | Closed |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#6260 fix(tokens): preserve concurrent pricing cache snapshots](https://github.com/browser-use/browser-use/pull/6260) | Open |
-| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | Open |
+| [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | [#4287 fix(vlm): accept case-insensitive image data URLs](https://github.com/HKUDS/LightRAG/pull/4287) | Merged |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | [#288 fix(paper2code): preserve fenced code in paper sections](https://github.com/HKUDS/DeepCode/pull/288) | Merged |
 | [browserbase/stagehand](https://github.com/browserbase/stagehand) | [#3360 fix(sdk-ts): observe rejected operations after pre-abort](https://github.com/browserbase/stagehand/pull/3360) | Open |
 | [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#6149 fix(ts): preserve arbitrary session state keys](https://github.com/MervinPraison/PraisonAI/pull/6149) | Merged |
