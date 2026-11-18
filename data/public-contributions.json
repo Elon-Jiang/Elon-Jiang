@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-17T10:47:13+00:00",
+  "updated_at": "2026-11-18T10:14:29+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -12,6 +12,28 @@
     "bio": null
   },
   "pull_requests": [
+    {
+      "id": 6464282543,
+      "number": 3884,
+      "repository": "github/github-mcp-server",
+      "title": "fix(repos): allow explicitly empty file content",
+      "url": "https://github.com/github/github-mcp-server/pull/3884",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-18T09:43:02Z",
+      "merged_at": null
+    },
+    {
+      "id": 6463838595,
+      "number": 813,
+      "repository": "NevaMind-AI/memU",
+      "title": "fix(embedding): parse Doubao multimodal response formats",
+      "url": "https://github.com/NevaMind-AI/memU/pull/813",
+      "state": "open",
+      "draft": false,
+      "created_at": "2026-11-18T09:15:48Z",
+      "merged_at": null
+    },
     {
       "id": 6441663252,
       "number": 2628,
@@ -73,10 +95,10 @@
       "repository": "Tencent/AI-Infra-Guard",
       "title": "fix(agent-scan): send JSON array request bodies",
       "url": "https://github.com/Tencent/AI-Infra-Guard/pull/771",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-17T05:19:21Z",
-      "merged_at": null
+      "merged_at": "2026-11-18T02:15:47Z"
     },
     {
       "id": 6437854552,
@@ -84,10 +106,10 @@
       "repository": "Tencent/AI-Infra-Guard",
       "title": "fix(agent-scan): preserve provider config metadata",
       "url": "https://github.com/Tencent/AI-Infra-Guard/pull/770",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-17T05:11:35Z",
-      "merged_at": null
+      "merged_at": "2026-11-18T02:15:51Z"
     },
     {
       "id": 6437794793,
@@ -117,7 +139,7 @@
       "repository": "e2b-dev/E2B",
       "title": "fix(sdk): report both-added and both-deleted Git conflicts",
       "url": "https://github.com/e2b-dev/E2B/pull/2153",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-17T04:34:40Z",
       "merged_at": null
@@ -128,10 +150,10 @@
       "repository": "ax-llm/ax",
       "title": "fix(funcs): reject Docker image pull stream errors",
       "url": "https://github.com/ax-llm/ax/pull/909",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-17T04:09:14Z",
-      "merged_at": null
+      "merged_at": "2026-11-18T07:14:23Z"
     },
     {
       "id": 6436883708,
@@ -150,10 +172,10 @@
       "repository": "ax-llm/ax",
       "title": "fix(funcs): stop containers using Docker list states",
       "url": "https://github.com/ax-llm/ax/pull/907",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-17T03:31:13Z",
-      "merged_at": null
+      "merged_at": "2026-11-18T07:13:57Z"
     },
     {
       "id": 6436404907,
@@ -1469,22 +1491,22 @@
     {
       "full_name": "2FastLabs/agent-squad",
       "url": "https://github.com/2FastLabs/agent-squad",
-      "stars": 7806
+      "stars": 7805
     },
     {
       "full_name": "567-labs/instructor",
       "url": "https://github.com/567-labs/instructor",
-      "stars": 14117
+      "stars": 14122
     },
     {
       "full_name": "AtsushiSakai/PythonRobotics",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
-      "stars": 30932
+      "stars": 30944
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38760
+      "stars": 38786
     },
     {
       "full_name": "Farama-Foundation/Gymnasium-Robotics",
@@ -1494,72 +1516,72 @@
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16848
+      "stars": 16851
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40738
+      "stars": 40754
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24571
+      "stars": 24622
     },
     {
       "full_name": "MemTensor/MemOS",
       "url": "https://github.com/MemTensor/MemOS",
-      "stars": 12427
+      "stars": 12444
     },
     {
       "full_name": "MemoriLabs/Memori",
       "url": "https://github.com/MemoriLabs/Memori",
-      "stars": 17593
+      "stars": 17594
     },
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9343
+      "stars": 9342
     },
     {
       "full_name": "NVIDIA/Isaac-GR00T",
       "url": "https://github.com/NVIDIA/Isaac-GR00T",
-      "stars": 8384
+      "stars": 8390
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14625
+      "stars": 14628
     },
     {
       "full_name": "Physical-Intelligence/openpi",
       "url": "https://github.com/Physical-Intelligence/openpi",
-      "stars": 14678
+      "stars": 14691
     },
     {
       "full_name": "Portkey-AI/gateway",
       "url": "https://github.com/Portkey-AI/gateway",
-      "stars": 13391
+      "stars": 13404
     },
     {
       "full_name": "RoboVerseOrg/RoboVerse",
       "url": "https://github.com/RoboVerseOrg/RoboVerse",
-      "stars": 1884
+      "stars": 1883
     },
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7532
+      "stars": 7543
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 12155
+      "stars": 12207
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 10989
+      "stars": 10993
     },
     {
       "full_name": "a2aproject/a2a-python",
@@ -1574,77 +1596,82 @@
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1112
+      "stars": 1113
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7798
+      "stars": 7804
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30751
+      "stars": 30769
     },
     {
       "full_name": "assistant-ui/assistant-ui",
       "url": "https://github.com/assistant-ui/assistant-ui",
-      "stars": 13286
+      "stars": 13304
     },
     {
       "full_name": "ax-llm/ax",
       "url": "https://github.com/ax-llm/ax",
-      "stars": 2985
+      "stars": 2986
     },
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 121275
+      "stars": 121385
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 26078
+      "stars": 26086
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19523
+      "stars": 19540
     },
     {
       "full_name": "deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
-      "stars": 27025
+      "stars": 27040
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14903
+      "stars": 14916
     },
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6598
+      "stars": 6600
     },
     {
       "full_name": "getzep/graphiti",
       "url": "https://github.com/getzep/graphiti",
-      "stars": 32873
+      "stars": 32912
+    },
+    {
+      "full_name": "github/github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "stars": 34557
     },
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31351
+      "stars": 31388
     },
     {
       "full_name": "langchain-ai/langchainjs",
       "url": "https://github.com/langchain-ai/langchainjs",
-      "stars": 18350
+      "stars": 18351
     },
     {
       "full_name": "langchain-ai/langgraphjs",
       "url": "https://github.com/langchain-ai/langgraphjs",
-      "stars": 3418
+      "stars": 3419
     },
     {
       "full_name": "langfuse/langfuse-python",
@@ -1654,37 +1681,37 @@
     {
       "full_name": "microsoft/agent-lightning",
       "url": "https://github.com/microsoft/agent-lightning",
-      "stars": 18970
+      "stars": 18972
     },
     {
       "full_name": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
-      "stars": 13543
+      "stars": 13623
     },
     {
       "full_name": "petercorke/robotics-toolbox-python",
       "url": "https://github.com/petercorke/robotics-toolbox-python",
-      "stars": 3591
+      "stars": 3592
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21251
+      "stars": 21268
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52924
+      "stars": 52939
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 12992
+      "stars": 13002
     },
     {
       "full_name": "vibrantlabsai/ragas",
       "url": "https://github.com/vibrantlabsai/ragas",
-      "stars": 16353
+      "stars": 16365
     }
   ]
 }

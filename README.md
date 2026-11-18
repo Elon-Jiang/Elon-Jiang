@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="56 PRs merged · 68 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="60 PRs merged · 65 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[132 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **56 merged / 68 open / 8 closed**
+[134 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **60 merged / 65 open / 9 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,23 +24,25 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 132 PRs and repositories</summary>
+<summary>All 134 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [github/github-mcp-server](https://github.com/github/github-mcp-server) | [#3884 fix(repos): allow explicitly empty file content](https://github.com/github/github-mcp-server/pull/3884) | Open |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#813 fix(embedding): parse Doubao multimodal response formats](https://github.com/NevaMind-AI/memU/pull/813) | Open |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2628 fix: preserve the default HTTP BGE reranking strategy](https://github.com/MemTensor/MemOS/pull/2628) | Open |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2134 fix(observe): end spans when output transformation fails](https://github.com/langfuse/langfuse-python/pull/2134) | Open |
 | [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#199 fix(stdio): settle writer close and disconnection](https://github.com/agentclientprotocol/python-sdk/pull/199) | Open |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2626 fix: honor bearer tokens in HTTP BGE rerankers](https://github.com/MemTensor/MemOS/pull/2626) | Open |
 | [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#198 fix(http): accept CR line endings in SSE streams](https://github.com/agentclientprotocol/python-sdk/pull/198) | Open |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#771 fix(agent-scan): send JSON array request bodies](https://github.com/Tencent/AI-Infra-Guard/pull/771) | Open |
-| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#770 fix(agent-scan): preserve provider config metadata](https://github.com/Tencent/AI-Infra-Guard/pull/770) | Open |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#771 fix(agent-scan): send JSON array request bodies](https://github.com/Tencent/AI-Infra-Guard/pull/771) | Merged |
+| [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#770 fix(agent-scan): preserve provider config metadata](https://github.com/Tencent/AI-Infra-Guard/pull/770) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#242 fix(models): isolate nonstream thinking defaults](https://github.com/agentscope-ai/OpenJudge/pull/242) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#241 fix(models): support typed tool results](https://github.com/agentscope-ai/OpenJudge/pull/241) | Merged |
-| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2153 fix(sdk): report both-added and both-deleted Git conflicts](https://github.com/e2b-dev/E2B/pull/2153) | Open |
-| [ax-llm/ax](https://github.com/ax-llm/ax) | [#909 fix(funcs): reject Docker image pull stream errors](https://github.com/ax-llm/ax/pull/909) | Open |
+| [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2153 fix(sdk): report both-added and both-deleted Git conflicts](https://github.com/e2b-dev/E2B/pull/2153) | Closed |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#909 fix(funcs): reject Docker image pull stream errors](https://github.com/ax-llm/ax/pull/909) | Merged |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1552 fix(rag): scope chunk IDs to their source document](https://github.com/VoltAgent/voltagent/pull/1552) | Open |
-| [ax-llm/ax](https://github.com/ax-llm/ax) | [#907 fix(funcs): stop containers using Docker list states](https://github.com/ax-llm/ax/pull/907) | Open |
+| [ax-llm/ax](https://github.com/ax-llm/ax) | [#907 fix(funcs): stop containers using Docker list states](https://github.com/ax-llm/ax/pull/907) | Merged |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2326 fix: construct custom tools with callback schemas](https://github.com/assafelovic/gpt-researcher/pull/2326) | Open |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2152 fix(js-sdk): snapshot queued Buffer input bytes](https://github.com/e2b-dev/E2B/pull/2152) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#767 fix(models): count usage-only stream chunks](https://github.com/Tencent/AI-Infra-Guard/pull/767) | Merged |
