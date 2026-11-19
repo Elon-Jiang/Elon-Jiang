@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="60 PRs merged · 65 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="65 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[134 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **60 merged / 65 open / 9 closed**
+[135 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **65 merged / 61 open / 9 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,17 +24,18 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 134 PRs and repositories</summary>
+<summary>All 135 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1495 fix(client): dispatch CR-terminated SSE events immediately](https://github.com/a2aproject/a2a-python/pull/1495) | Open |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | [#3884 fix(repos): allow explicitly empty file content](https://github.com/github/github-mcp-server/pull/3884) | Open |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#813 fix(embedding): parse Doubao multimodal response formats](https://github.com/NevaMind-AI/memU/pull/813) | Open |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2628 fix: preserve the default HTTP BGE reranking strategy](https://github.com/MemTensor/MemOS/pull/2628) | Open |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#813 fix(embedding): parse Doubao multimodal response formats](https://github.com/NevaMind-AI/memU/pull/813) | Merged |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2628 fix: preserve the default HTTP BGE reranking strategy](https://github.com/MemTensor/MemOS/pull/2628) | Merged |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2134 fix(observe): end spans when output transformation fails](https://github.com/langfuse/langfuse-python/pull/2134) | Open |
 | [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#199 fix(stdio): settle writer close and disconnection](https://github.com/agentclientprotocol/python-sdk/pull/199) | Open |
-| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2626 fix: honor bearer tokens in HTTP BGE rerankers](https://github.com/MemTensor/MemOS/pull/2626) | Open |
-| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#198 fix(http): accept CR line endings in SSE streams](https://github.com/agentclientprotocol/python-sdk/pull/198) | Open |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2626 fix: honor bearer tokens in HTTP BGE rerankers](https://github.com/MemTensor/MemOS/pull/2626) | Merged |
+| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#198 fix(http): accept CR line endings in SSE streams](https://github.com/agentclientprotocol/python-sdk/pull/198) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#771 fix(agent-scan): send JSON array request bodies](https://github.com/Tencent/AI-Infra-Guard/pull/771) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#770 fix(agent-scan): preserve provider config metadata](https://github.com/Tencent/AI-Infra-Guard/pull/770) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#242 fix(models): isolate nonstream thinking defaults](https://github.com/agentscope-ai/OpenJudge/pull/242) | Merged |
@@ -74,7 +75,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | [#1515 Preserve clean controls in histogram localization observations](https://github.com/AtsushiSakai/PythonRobotics/pull/1515) | Open |
 | [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#365 Reject impossible maze reset sampling instead of looping forever](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/365) | Open |
 | [AtsushiSakai/PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) | [#1514 Fix FastSLAM resampling state and landmark copies](https://github.com/AtsushiSakai/PythonRobotics/pull/1514) | Open |
-| [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | [#937 fix(mobile): preserve fractional limits for integer controls](https://github.com/petercorke/robotics-toolbox-python/pull/937) | Open |
+| [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | [#937 fix(mobile): preserve fractional limits for integer controls](https://github.com/petercorke/robotics-toolbox-python/pull/937) | Merged |
 | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | [#1087 Fix query-sensitive download caching and literal file retrieval](https://github.com/Physical-Intelligence/openpi/pull/1087) | Open |
 | [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#809 Fix consecutive non-monotonic timestamps in action interpolation](https://github.com/NVIDIA/Isaac-GR00T/pull/809) | Closed |
 | [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#886 fix(camera): construct valid batched and vertical views](https://github.com/RoboVerseOrg/RoboVerse/pull/886) | Open |
