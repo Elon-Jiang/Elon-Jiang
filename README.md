@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="65 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="65 PRs merged · 62 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[135 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **65 merged / 61 open / 9 closed**
+[137 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **65 merged / 62 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,10 +24,12 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 135 PRs and repositories</summary>
+<summary>All 137 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | [#1091 fix: accept absolute Windows attachment paths](https://github.com/evalstate/fast-agent/pull/1091) | Open |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | [#10920 fix(dspy): normalize downloaded audio media types](https://github.com/stanfordnlp/dspy/pull/10920) | Open |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1495 fix(client): dispatch CR-terminated SSE events immediately](https://github.com/a2aproject/a2a-python/pull/1495) | Open |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | [#3884 fix(repos): allow explicitly empty file content](https://github.com/github/github-mcp-server/pull/3884) | Open |
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#813 fix(embedding): parse Doubao multimodal response formats](https://github.com/NevaMind-AI/memU/pull/813) | Merged |
@@ -95,7 +97,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1517 fix(sdk): preserve request header forms and overrides](https://github.com/VoltAgent/voltagent/pull/1517) | Open |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | Merged |
-| [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | Open |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | Closed |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | Open |
 | [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | Open |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3096 fix(dataset): keep seeded train/test splits reproducible](https://github.com/vibrantlabsai/ragas/pull/3096) | Open |
