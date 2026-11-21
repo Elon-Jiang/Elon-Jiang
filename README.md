@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="65 PRs merged · 62 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="66 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[137 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **65 merged / 62 open / 10 closed**
+[137 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **66 merged / 61 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -28,7 +28,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
-| [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | [#1091 fix: accept absolute Windows attachment paths](https://github.com/evalstate/fast-agent/pull/1091) | Open |
+| [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | [#1091 fix: accept absolute Windows attachment paths](https://github.com/evalstate/fast-agent/pull/1091) | Merged |
 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | [#10920 fix(dspy): normalize downloaded audio media types](https://github.com/stanfordnlp/dspy/pull/10920) | Open |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1495 fix(client): dispatch CR-terminated SSE events immediately](https://github.com/a2aproject/a2a-python/pull/1495) | Open |
 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | [#3884 fix(repos): allow explicitly empty file content](https://github.com/github/github-mcp-server/pull/3884) | Open |
