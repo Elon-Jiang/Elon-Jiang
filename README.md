@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="66 PRs merged · 61 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="66 PRs merged · 66 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[137 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **66 merged / 61 open / 10 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **66 merged / 66 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -24,10 +24,15 @@ Contributions incorporated into the upstream main branch through maintainer sync
 - **[NVIDIA/Isaac-GR00T #810](https://github.com/NVIDIA/Isaac-GR00T/pull/810)** · Policy client: handle request timeouts and socket shutdown · Co-author · [upstream commit `9959696`](https://github.com/NVIDIA/Isaac-GR00T/commit/99596968dde1a4ba96d909878916a36423a9752e)
 
 <details>
-<summary>All 137 PRs and repositories</summary>
+<summary>All 142 PRs and repositories</summary>
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#158625 fix(desktop): preserve local GPU rendering with inherited SSH variables](https://github.com/NousResearch/hermes-agent/pull/158625) | Open |
+| [gepa-ai/gepa](https://github.com/gepa-ai/gepa) | [#586 fix(registry): preserve lazy tasks after initialization failures](https://github.com/gepa-ai/gepa/pull/586) | Open |
+| [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) | [#307 fix(deps): keep FastMCP 2 on the MCP 1.x SDK](https://github.com/ANative-Lab/EvoAgentX/pull/307) | Open |
+| [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) | [#306 fix(workflow): preserve reusable action graph configurations](https://github.com/ANative-Lab/EvoAgentX/pull/306) | Open |
+| [gepa-ai/gepa](https://github.com/gepa-ai/gepa) | [#585 fix(ensemble): preserve evaluator semantics when voting](https://github.com/gepa-ai/gepa/pull/585) | Open |
 | [evalstate/fast-agent](https://github.com/evalstate/fast-agent) | [#1091 fix: accept absolute Windows attachment paths](https://github.com/evalstate/fast-agent/pull/1091) | Merged |
 | [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | [#10920 fix(dspy): normalize downloaded audio media types](https://github.com/stanfordnlp/dspy/pull/10920) | Open |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1495 fix(client): dispatch CR-terminated SSE events immediately](https://github.com/a2aproject/a2a-python/pull/1495) | Open |
