@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="66 PRs merged · 66 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="70 PRs merged · 62 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **66 merged / 66 open / 10 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **70 merged / 62 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -51,18 +51,18 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [ax-llm/ax](https://github.com/ax-llm/ax) | [#909 fix(funcs): reject Docker image pull stream errors](https://github.com/ax-llm/ax/pull/909) | Merged |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1552 fix(rag): scope chunk IDs to their source document](https://github.com/VoltAgent/voltagent/pull/1552) | Open |
 | [ax-llm/ax](https://github.com/ax-llm/ax) | [#907 fix(funcs): stop containers using Docker list states](https://github.com/ax-llm/ax/pull/907) | Merged |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2326 fix: construct custom tools with callback schemas](https://github.com/assafelovic/gpt-researcher/pull/2326) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2326 fix: construct custom tools with callback schemas](https://github.com/assafelovic/gpt-researcher/pull/2326) | Merged |
 | [e2b-dev/E2B](https://github.com/e2b-dev/E2B) | [#2152 fix(js-sdk): snapshot queued Buffer input bytes](https://github.com/e2b-dev/E2B/pull/2152) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#767 fix(models): count usage-only stream chunks](https://github.com/Tencent/AI-Infra-Guard/pull/767) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#766 fix(httpx): honor configured Host headers](https://github.com/Tencent/AI-Infra-Guard/pull/766) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#240 fix(format): compare JSON numbers exactly](https://github.com/agentscope-ai/OpenJudge/pull/240) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#239 fix(agent): ignore tool argument key order](https://github.com/agentscope-ai/OpenJudge/pull/239) | Merged |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2312 fix: preserve generation options for tool completions](https://github.com/assafelovic/gpt-researcher/pull/2312) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2312 fix: preserve generation options for tool completions](https://github.com/assafelovic/gpt-researcher/pull/2312) | Merged |
 | [ax-llm/ax](https://github.com/ax-llm/ax) | [#899 fix(funcs): forward embedding callback context consistently](https://github.com/ax-llm/ax/pull/899) | Merged |
 | [a2aproject/a2a-python](https://github.com/a2aproject/a2a-python) | [#1471 fix(server): commit terminal state after event publication](https://github.com/a2aproject/a2a-python/pull/1471) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1548 fix(rag): tokenize special-token spellings as document text](https://github.com/VoltAgent/voltagent/pull/1548) | Open |
 | [ax-llm/ax](https://github.com/ax-llm/ax) | [#898 fix(eval): keep F1 finite for constructor tokens](https://github.com/ax-llm/ax/pull/898) | Merged |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2311 fix(costs): count literal special-token text](https://github.com/assafelovic/gpt-researcher/pull/2311) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2311 fix(costs): count literal special-token text](https://github.com/assafelovic/gpt-researcher/pull/2311) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#761 fix(runner): stop CIDR enumeration at final IPv4 address](https://github.com/Tencent/AI-Infra-Guard/pull/761) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#760 fix(agent-scan,mcp-scan): honor finish tool name casing](https://github.com/Tencent/AI-Infra-Guard/pull/760) | Merged |
 | [agentscope-ai/OpenJudge](https://github.com/agentscope-ai/OpenJudge) | [#238 fix(text): compare numbers before float rounding](https://github.com/agentscope-ai/OpenJudge/pull/238) | Merged |
@@ -96,7 +96,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1897 bug: preserve Cohere base64 embedding results](https://github.com/Portkey-AI/gateway/pull/1897) | Open |
 | [567-labs/instructor](https://github.com/567-labs/instructor) | [#2992 fix(templating): render an explicitly supplied empty context](https://github.com/567-labs/instructor/pull/2992) | Closed |
 | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) | [#1896 bug: preserve UTF-8 across JSONL stream chunks](https://github.com/Portkey-AI/gateway/pull/1896) | Open |
-| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2275 fix(markdown): keep fenced code out of report headings](https://github.com/assafelovic/gpt-researcher/pull/2275) | Open |
+| [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2275 fix(markdown): keep fenced code out of report headings](https://github.com/assafelovic/gpt-researcher/pull/2275) | Merged |
 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | [#469 fix(resilience): release interrupted synchronous recovery probes](https://github.com/HKUDS/RAG-Anything/pull/469) | Merged |
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10397 fix(react-a2a): merge protocol header names case-insensitively](https://github.com/assistant-ui/assistant-ui/pull/10397) | Merged |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1519 fix(rag): keep NeuralChunker output IDs distinct after expansion](https://github.com/VoltAgent/voltagent/pull/1519) | Open |
