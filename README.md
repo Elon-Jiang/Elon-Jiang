@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="70 PRs merged · 62 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="72 PRs merged · 60 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **70 merged / 62 open / 10 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **72 merged / 60 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -28,7 +28,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 
 | Repository | Pull request | Status |
 | :--- | :--- | :--- |
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#158625 fix(desktop): preserve local GPU rendering with inherited SSH variables](https://github.com/NousResearch/hermes-agent/pull/158625) | Open |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | [#158625 fix(desktop): preserve local GPU rendering with inherited SSH variables](https://github.com/NousResearch/hermes-agent/pull/158625) | Merged |
 | [gepa-ai/gepa](https://github.com/gepa-ai/gepa) | [#586 fix(registry): preserve lazy tasks after initialization failures](https://github.com/gepa-ai/gepa/pull/586) | Open |
 | [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) | [#307 fix(deps): keep FastMCP 2 on the MCP 1.x SDK](https://github.com/ANative-Lab/EvoAgentX/pull/307) | Open |
 | [ANative-Lab/EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) | [#306 fix(workflow): preserve reusable action graph configurations](https://github.com/ANative-Lab/EvoAgentX/pull/306) | Open |
@@ -136,7 +136,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6996 fix(py): ignore SSE heartbeat comments in agent streams](https://github.com/genkit-ai/genkit/pull/6996) | Open |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6995 fix(py): compare session snapshot creation instants chronologically](https://github.com/genkit-ai/genkit/pull/6995) | Open |
 | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) | [#253 fix(s4): quote paths when archiving interface variants](https://github.com/simular-ai/Agent-S/pull/253) | Open |
-| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#775 fix(embedding): skip empty SDK embedding requests](https://github.com/NevaMind-AI/memU/pull/775) | Open |
+| [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#775 fix(embedding): skip empty SDK embedding requests](https://github.com/NevaMind-AI/memU/pull/775) | Merged |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6992 fix(py): preserve application import errors in run_main](https://github.com/genkit-ai/genkit/pull/6992) | Open |
 | [genkit-ai/genkit](https://github.com/genkit-ai/genkit) | [#6991 fix(py): preserve nullable chunks in waiting stream readers](https://github.com/genkit-ai/genkit/pull/6991) | Open |
 | [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [#2250 fix(vector-store): skip empty chunk batches](https://github.com/assafelovic/gpt-researcher/pull/2250) | Merged |

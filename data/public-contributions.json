@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "username": "Elon-Jiang",
-  "updated_at": "2026-11-23T10:50:32+00:00",
+  "updated_at": "2026-11-24T12:33:35+00:00",
   "source": "GitHub REST API: public PRs authored by this user in repositories owned by others",
   "profile": {
     "login": "Elon-Jiang",
@@ -18,10 +18,10 @@
       "repository": "NousResearch/hermes-agent",
       "title": "fix(desktop): preserve local GPU rendering with inherited SSH variables",
       "url": "https://github.com/NousResearch/hermes-agent/pull/158625",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-21T16:35:04Z",
-      "merged_at": null
+      "merged_at": "2026-11-23T19:05:48Z"
     },
     {
       "id": 6530531573,
@@ -1206,10 +1206,10 @@
       "repository": "NevaMind-AI/memU",
       "title": "fix(embedding): skip empty SDK embedding requests",
       "url": "https://github.com/NevaMind-AI/memU/pull/775",
-      "state": "open",
+      "state": "closed",
       "draft": false,
       "created_at": "2026-11-01T06:30:31Z",
-      "merged_at": null
+      "merged_at": "2026-11-24T04:04:39Z"
     },
     {
       "id": 6143948761,
@@ -1579,27 +1579,27 @@
     {
       "full_name": "2FastLabs/agent-squad",
       "url": "https://github.com/2FastLabs/agent-squad",
-      "stars": 7803
+      "stars": 7804
     },
     {
       "full_name": "567-labs/instructor",
       "url": "https://github.com/567-labs/instructor",
-      "stars": 14136
+      "stars": 14138
     },
     {
       "full_name": "ANative-Lab/EvoAgentX",
       "url": "https://github.com/ANative-Lab/EvoAgentX",
-      "stars": 3446
+      "stars": 3447
     },
     {
       "full_name": "AtsushiSakai/PythonRobotics",
       "url": "https://github.com/AtsushiSakai/PythonRobotics",
-      "stars": 30961
+      "stars": 30967
     },
     {
       "full_name": "CopilotKit/CopilotKit",
       "url": "https://github.com/CopilotKit/CopilotKit",
-      "stars": 38907
+      "stars": 38934
     },
     {
       "full_name": "Farama-Foundation/Gymnasium-Robotics",
@@ -1609,22 +1609,22 @@
     {
       "full_name": "HKUDS/DeepCode",
       "url": "https://github.com/HKUDS/DeepCode",
-      "stars": 16859
+      "stars": 16862
     },
     {
       "full_name": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
-      "stars": 40829
+      "stars": 40843
     },
     {
       "full_name": "HKUDS/RAG-Anything",
       "url": "https://github.com/HKUDS/RAG-Anything",
-      "stars": 24776
+      "stars": 24793
     },
     {
       "full_name": "MemTensor/MemOS",
       "url": "https://github.com/MemTensor/MemOS",
-      "stars": 12486
+      "stars": 12500
     },
     {
       "full_name": "MemoriLabs/Memori",
@@ -1634,32 +1634,32 @@
     {
       "full_name": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "stars": 9381
+      "stars": 9383
     },
     {
       "full_name": "NVIDIA/Isaac-GR00T",
       "url": "https://github.com/NVIDIA/Isaac-GR00T",
-      "stars": 8408
+      "stars": 8415
     },
     {
       "full_name": "NevaMind-AI/memU",
       "url": "https://github.com/NevaMind-AI/memU",
-      "stars": 14633
+      "stars": 14636
     },
     {
       "full_name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "stars": 265549
+      "stars": 265770
     },
     {
       "full_name": "Physical-Intelligence/openpi",
       "url": "https://github.com/Physical-Intelligence/openpi",
-      "stars": 14743
+      "stars": 14746
     },
     {
       "full_name": "Portkey-AI/gateway",
       "url": "https://github.com/Portkey-AI/gateway",
-      "stars": 13432
+      "stars": 13436
     },
     {
       "full_name": "RoboVerseOrg/RoboVerse",
@@ -1669,47 +1669,47 @@
     {
       "full_name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "stars": 7620
+      "stars": 7633
     },
     {
       "full_name": "TencentCloud/Octop",
       "url": "https://github.com/TencentCloud/Octop",
-      "stars": 12413
+      "stars": 12447
     },
     {
       "full_name": "VoltAgent/voltagent",
       "url": "https://github.com/VoltAgent/voltagent",
-      "stars": 11003
+      "stars": 11007
     },
     {
       "full_name": "a2aproject/a2a-python",
       "url": "https://github.com/a2aproject/a2a-python",
-      "stars": 2254
+      "stars": 2257
     },
     {
       "full_name": "agentclientprotocol/python-sdk",
       "url": "https://github.com/agentclientprotocol/python-sdk",
-      "stars": 354
+      "stars": 355
     },
     {
       "full_name": "agentscope-ai/OpenJudge",
       "url": "https://github.com/agentscope-ai/OpenJudge",
-      "stars": 1121
+      "stars": 1122
     },
     {
       "full_name": "algorithmicsuperintelligence/openevolve",
       "url": "https://github.com/algorithmicsuperintelligence/openevolve",
-      "stars": 7856
+      "stars": 7861
     },
     {
       "full_name": "assafelovic/gpt-researcher",
       "url": "https://github.com/assafelovic/gpt-researcher",
-      "stars": 30873
+      "stars": 30885
     },
     {
       "full_name": "assistant-ui/assistant-ui",
       "url": "https://github.com/assistant-ui/assistant-ui",
-      "stars": 13378
+      "stars": 13397
     },
     {
       "full_name": "ax-llm/ax",
@@ -1719,27 +1719,27 @@
     {
       "full_name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
-      "stars": 121811
+      "stars": 121913
     },
     {
       "full_name": "browserbase/stagehand",
       "url": "https://github.com/browserbase/stagehand",
-      "stars": 26121
+      "stars": 26130
     },
     {
       "full_name": "confident-ai/deepeval",
       "url": "https://github.com/confident-ai/deepeval",
-      "stars": 19602
+      "stars": 19633
     },
     {
       "full_name": "deepset-ai/haystack",
       "url": "https://github.com/deepset-ai/haystack",
-      "stars": 27082
+      "stars": 27100
     },
     {
       "full_name": "e2b-dev/E2B",
       "url": "https://github.com/e2b-dev/E2B",
-      "stars": 14978
+      "stars": 14992
     },
     {
       "full_name": "evalstate/fast-agent",
@@ -1749,42 +1749,42 @@
     {
       "full_name": "genkit-ai/genkit",
       "url": "https://github.com/genkit-ai/genkit",
-      "stars": 6616
+      "stars": 6619
     },
     {
       "full_name": "gepa-ai/gepa",
       "url": "https://github.com/gepa-ai/gepa",
-      "stars": 7545
+      "stars": 7560
     },
     {
       "full_name": "getzep/graphiti",
       "url": "https://github.com/getzep/graphiti",
-      "stars": 33020
+      "stars": 33051
     },
     {
       "full_name": "github/github-mcp-server",
       "url": "https://github.com/github/github-mcp-server",
-      "stars": 34686
+      "stars": 34709
     },
     {
       "full_name": "langchain-ai/deepagents",
       "url": "https://github.com/langchain-ai/deepagents",
-      "stars": 31534
+      "stars": 31552
     },
     {
       "full_name": "langchain-ai/langchainjs",
       "url": "https://github.com/langchain-ai/langchainjs",
-      "stars": 18357
+      "stars": 18361
     },
     {
       "full_name": "langchain-ai/langgraphjs",
       "url": "https://github.com/langchain-ai/langgraphjs",
-      "stars": 3423
+      "stars": 3425
     },
     {
       "full_name": "langfuse/langfuse-python",
       "url": "https://github.com/langfuse/langfuse-python",
-      "stars": 516
+      "stars": 518
     },
     {
       "full_name": "microsoft/agent-lightning",
@@ -1794,37 +1794,37 @@
     {
       "full_name": "neuml/txtai",
       "url": "https://github.com/neuml/txtai",
-      "stars": 13719
+      "stars": 13724
     },
     {
       "full_name": "petercorke/robotics-toolbox-python",
       "url": "https://github.com/petercorke/robotics-toolbox-python",
-      "stars": 3598
+      "stars": 3599
     },
     {
       "full_name": "pydantic/pydantic-ai",
       "url": "https://github.com/pydantic/pydantic-ai",
-      "stars": 21349
+      "stars": 21362
     },
     {
       "full_name": "run-llama/llama_index",
       "url": "https://github.com/run-llama/llama_index",
-      "stars": 52991
+      "stars": 52992
     },
     {
       "full_name": "simular-ai/Agent-S",
       "url": "https://github.com/simular-ai/Agent-S",
-      "stars": 13023
+      "stars": 13034
     },
     {
       "full_name": "stanfordnlp/dspy",
       "url": "https://github.com/stanfordnlp/dspy",
-      "stars": 39191
+      "stars": 39203
     },
     {
       "full_name": "vibrantlabsai/ragas",
       "url": "https://github.com/vibrantlabsai/ragas",
-      "stars": 16404
+      "stars": 16415
     }
   ]
 }
