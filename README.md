@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="72 PRs merged · 60 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="73 PRs merged · 59 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **72 merged / 60 open / 10 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **73 merged / 59 open / 10 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -40,7 +40,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) | [#813 fix(embedding): parse Doubao multimodal response formats](https://github.com/NevaMind-AI/memU/pull/813) | Merged |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2628 fix: preserve the default HTTP BGE reranking strategy](https://github.com/MemTensor/MemOS/pull/2628) | Merged |
 | [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) | [#2134 fix(observe): end spans when output transformation fails](https://github.com/langfuse/langfuse-python/pull/2134) | Open |
-| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#199 fix(stdio): settle writer close and disconnection](https://github.com/agentclientprotocol/python-sdk/pull/199) | Open |
+| [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#199 fix(stdio): settle writer close and disconnection](https://github.com/agentclientprotocol/python-sdk/pull/199) | Merged |
 | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | [#2626 fix: honor bearer tokens in HTTP BGE rerankers](https://github.com/MemTensor/MemOS/pull/2626) | Merged |
 | [agentclientprotocol/python-sdk](https://github.com/agentclientprotocol/python-sdk) | [#198 fix(http): accept CR line endings in SSE streams](https://github.com/agentclientprotocol/python-sdk/pull/198) | Merged |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#771 fix(agent-scan): send JSON array request bodies](https://github.com/Tencent/AI-Infra-Guard/pull/771) | Merged |
