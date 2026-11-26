@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="73 PRs merged · 59 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="73 PRs merged · 58 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **73 merged / 59 open / 10 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **73 merged / 58 open / 11 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -104,7 +104,7 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | [#10395 fix(assistant-stream): stop scanning SSE input at the done marker](https://github.com/assistant-ui/assistant-ui/pull/10395) | Merged |
 | [neuml/txtai](https://github.com/neuml/txtai) | [#1531 Fix search worker limits when CPU count is unknown](https://github.com/neuml/txtai/pull/1531) | Closed |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3098 fix: discover Git worktrees for experiment versioning](https://github.com/vibrantlabsai/ragas/pull/3098) | Open |
-| [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | Open |
+| [neuml/txtai](https://github.com/neuml/txtai) | [#1529 Fix iterator outputs in batched workflow tasks](https://github.com/neuml/txtai/pull/1529) | Closed |
 | [vibrantlabsai/ragas](https://github.com/vibrantlabsai/ragas) | [#3096 fix(dataset): keep seeded train/test splits reproducible](https://github.com/vibrantlabsai/ragas/pull/3096) | Open |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#24065 fix(core): preserve chat memory input snapshots during restore](https://github.com/run-llama/llama_index/pull/24065) | Open |
 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | [#23976 fix(core): isolate SimpleKVStore dictionary snapshots](https://github.com/run-llama/llama_index/pull/23976) | Open |
