@@ -9,10 +9,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/contributions-light.svg">
-  <img alt="73 PRs merged · 58 open" src="./assets/contributions-light.svg" width="100%">
+  <img alt="75 PRs merged · 56 open" src="./assets/contributions-light.svg" width="100%">
 </picture>
 
-[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **73 merged / 58 open / 11 closed**
+[142 public PRs](https://github.com/pulls?q=is%3Apr+author%3AElon-Jiang+is%3Apublic+-user%3AElon-Jiang) · **75 merged / 56 open / 11 closed**
 
 Counts only public PRs I authored in repositories owned by others. Stars belong to the contributed projects.
 
@@ -85,8 +85,8 @@ Contributions incorporated into the upstream main branch through maintainer sync
 | [petercorke/robotics-toolbox-python](https://github.com/petercorke/robotics-toolbox-python) | [#937 fix(mobile): preserve fractional limits for integer controls](https://github.com/petercorke/robotics-toolbox-python/pull/937) | Merged |
 | [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi) | [#1087 Fix query-sensitive download caching and literal file retrieval](https://github.com/Physical-Intelligence/openpi/pull/1087) | Open |
 | [NVIDIA/Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) | [#809 Fix consecutive non-monotonic timestamps in action interpolation](https://github.com/NVIDIA/Isaac-GR00T/pull/809) | Closed |
-| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#886 fix(camera): construct valid batched and vertical views](https://github.com/RoboVerseOrg/RoboVerse/pull/886) | Open |
-| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#885 fix(replay): fail validation on non-finite states](https://github.com/RoboVerseOrg/RoboVerse/pull/885) | Open |
+| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#886 fix(camera): construct valid batched and vertical views](https://github.com/RoboVerseOrg/RoboVerse/pull/886) | Merged |
+| [RoboVerseOrg/RoboVerse](https://github.com/RoboVerseOrg/RoboVerse) | [#885 fix(replay): fail validation on non-finite states](https://github.com/RoboVerseOrg/RoboVerse/pull/885) | Merged |
 | [Farama-Foundation/Gymnasium-Robotics](https://github.com/Farama-Foundation/Gymnasium-Robotics) | [#364 Fix FrankaKitchen reward recomputation after task completion](https://github.com/Farama-Foundation/Gymnasium-Robotics/pull/364) | Open |
 | [VoltAgent/voltagent](https://github.com/VoltAgent/voltagent) | [#1524 fix(core): report in-memory file sizes in UTF-8 bytes](https://github.com/VoltAgent/voltagent/pull/1524) | Open |
 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | [#747 fix(agent-scan): preserve prompt escapes in provider templates](https://github.com/Tencent/AI-Infra-Guard/pull/747) | Merged |
